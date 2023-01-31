@@ -1,0 +1,987 @@
+,Volcano_Name,Volcano_Type,Country,Region,Subregion,epoch_period,Last_Eruption,Latitude,Longitude,population_within_5km,population_within_10km,population_within_30km,population_within_100km,Summit,Elevation
+0,Abu,Shield,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,6850 BCE,34,34,3597.0,9594.0,117805.0,4071152.0,641,2103
+2,Acatenango,Stratovolcano,Guatemala,México and Central America,Guatemala,holocene,1972 CE,14,14,4329.0,60730.0,1042836.0,7634778.0,3976,13045
+3,Acigol-Nevsehir,Caldera,Turkey,Mediterranean and Western Asia,Turkey,holocene,2080 BCE,38,38,127863.0,127863.0,218469.0,2253483.0,1683,5522
+6,Adatarayama,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,1996 CE,37,37,428.0,3936.0,717078.0,5024654.0,1728,5669
+7,Adwa,Stratovolcano,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,10,10,101.0,485.0,18645.0,1242922.0,1670,5479
+8,Afdera,Stratovolcano,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Uncertain,13,13,51.0,6042.0,8611.0,161009.0,1250,4101
+10,Agua,Stratovolcano,Guatemala,México and Central America,Guatemala,holocene,Unknown - Evidence Credible,14,14,9890.0,114404.0,2530449.0,7441660.0,3760,12336
+11,Agua de Pau,Stratovolcano,Portugal,Atlantic Ocean,Azores,holocene,1564 CE,37,37,406.0,17272.0,113131.0,119653.0,947,3107
+13,Agung,Stratovolcano,Indonesia,Indonesia,Lesser Sunda Islands,holocene,2019 CE,8,8,5657.0,76781.0,968381.0,4550176.0,2997,9833
+15,Aira,Caldera,Japan,"Japan, Taiwan, Marianas",Ryukyu Islands and Kyushu,holocene,2022 CE,31,31,4918.0,113874.0,905254.0,2610033.0,1117,3665
+16,Akademia Nauk,Stratovolcano,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,holocene,1996 CE,53,53,3.0,3.0,615.0,12484.0,1180,3871
+17,Akagisan,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,Unknown - Evidence Uncertain,36,36,961.0,4538.0,1116366.0,16718375.0,1828,5997
+18,Akan,Caldera,Japan,"Japan, Taiwan, Marianas",Hokkaido,holocene,2008 CE,43,43,2062.0,2062.0,9756.0,929538.0,1499,4918
+20,Akita-Komagatake,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,1971 CE,39,39,376.0,3864.0,216708.0,2521611.0,1637,5371
+21,Akita-Yakeyama,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,1997 CE,39,39,127.0,721.0,55493.0,3122037.0,1366,4482
+22,Akusekijima,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Ryukyu Islands and Kyushu,holocene,Unknown - Evidence Uncertain,29,29,52.0,52.0,199.0,749.0,555,1821
+26,Alayta,Shield,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,1915 CE,12,12,156.0,925.0,13459.0,330411.0,1496,4908
+27,Alcedo,Shield,Ecuador,South America,Galapagos Islands,holocene,1993 CE,0,0,290.0,290.0,388.0,10756.0,1130,3707
+28,Ale Bagu,Stratovolcano,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,13,13,2.0,919.0,8424.0,278270.0,988,3241
+29,Alid,Stratovolcano,Eritrea,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,14,14,517.0,2447.0,25942.0,1216179.0,904,2966
+32,Almolonga,Stratovolcano,Guatemala,México and Central America,Guatemala,holocene,1818 CE,14,14,91323.0,287487.0,1126942.0,6828403.0,3173,10410
+35,Aluto,Stratovolcano,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,50 BCE,7,7,6011.0,25619.0,314216.0,6813710.0,2335,7661
+37,Amasing,Stratovolcano,Indonesia,Indonesia,Halmahera,holocene,Unknown - Evidence Credible,0,0,59.0,803.0,26015.0,92417.0,1030,3379
+38,Ambae,Shield,Vanuatu,Melanesia and Australia,Vanuatu,holocene,2022 CE,15,15,73.0,1279.0,4326.0,73308.0,1496,4908
+39,Ambalatungan Group,Compound,Philippines,Philippines and SE Asia,Luzon,holocene,Unknown - Unrest / Holocene,17,17,493.0,3803.0,55724.0,4652400.0,2329,7641
+40,Ambang,Complex,Indonesia,Indonesia,Sulawesi,holocene,2005 CE,0,0,9155.0,46469.0,319137.0,1730602.0,1795,5889
+41,Ambitle,Stratovolcano,Papua New Guinea,Melanesia and Australia,New Ireland,holocene,350 BCE,4,4,1643.0,9195.0,9779.0,24367.0,450,1476
+42,Ambre-Bobaomby,Volcanic field,Madagascar,Middle East and Indian Ocean,Indian Ocean (western),holocene,Unknown - Evidence Credible,12,12,20396.0,20396.0,51426.0,408436.0,1475,4839
+43,Ambrym,Pyroclastic shield,Vanuatu,Melanesia and Australia,Vanuatu,holocene,2022 CE,16,16,9.0,186.0,10826.0,63999.0,1334,4377
+47,Andahua-Orcopampa,Pyroclastic cone,Peru,South America,Peru,holocene,1490 CE,15,15,10317.0,10317.0,16541.0,171897.0,4713,15463
+49,Aneityum,Stratovolcano,Vanuatu,Melanesia and Australia,Vanuatu,holocene,Unknown - Evidence Uncertain,20,20,176.0,692.0,703.0,22731.0,852,2795
+51,Ankaizina Field,Pyroclastic cone,Madagascar,Middle East and Indian Ocean,Indian Ocean (western),holocene,Unknown - Evidence Credible,14,14,9628.0,9628.0,41916.0,637393.0,2878,9442
+52,Antillanca Volcanic Complex,Stratovolcano,Chile,South America,Central Chile and Argentina,holocene,230 BCE,40,40,87.0,521.0,5986.0,530586.0,1979,6493
+53,Antisana,Stratovolcano,Ecuador,South America,Ecuador,holocene,1802 CE,0,0,232.0,2220.0,56154.0,3314142.0,5753,18875
+54,Antofagasta Volcanic Field,Pyroclastic cone,Argentina,South America,"Northern Chile, Bolivia and Argentina",holocene,Unknown - Evidence Uncertain,26,26,188.0,188.0,257.0,4295.0,3495,11467
+55,Antuco,Stratovolcano,Chile,South America,Central Chile and Argentina,holocene,1869 CE,37,37,117.0,474.0,3872.0,381623.0,2979,9774
+56,Aogashima,Stratovolcano,Japan,"Japan, Taiwan, Marianas","Izu, Volcano, and Mariana Islands",holocene,1785 CE,32,32,232.0,232.0,232.0,8559.0,423,1388
+57,Apagado,Pyroclastic cone,Chile,South America,Southern Chile and Argentina,holocene,590 BCE,41,41,5.0,44.0,4474.0,354002.0,1210,3970
+58,Apaneca Range,Stratovolcano,El Salvador,México and Central America,El Salvador and Honduras,holocene,Unknown - Evidence Credible,13,13,11141.0,151502.0,1113282.0,6215853.0,2028,6654
+59,Apastepeque Field,Volcanic field,El Salvador,México and Central America,El Salvador and Honduras,holocene,Unknown - Evidence Credible,13,13,377730.0,377730.0,687849.0,6372608.0,700,2297
+60,Apo,Stratovolcano,Philippines,Philippines and SE Asia,Mindanao,holocene,Unknown - Unrest / Holocene,6,6,1355.0,5431.0,767800.0,7768291.0,2938,9639
+61,Apoyeque,Pyroclastic shield,Nicaragua,México and Central America,Nicaragua,holocene,50 BCE,12,12,2369.0,116718.0,1342581.0,3445854.0,518,1699
+64,"Aramuaca, Laguna",Maar,El Salvador,México and Central America,El Salvador and Honduras,holocene,Unknown - Evidence Credible,13,13,15772.0,132109.0,699308.0,3009012.0,181,594
+65,Ararat,Stratovolcano,Turkey,Mediterranean and Western Asia,Turkey,holocene,1840 CE,39,39,25.0,1239.0,135563.0,2811646.0,5165,16946
+66,Arayat,Stratovolcano,Philippines,Philippines and SE Asia,Luzon,holocene,Unknown - Evidence Uncertain,15,15,7846.0,190674.0,2805269.0,27216491.0,1026,3366
+67,Ardoukoba,Fissure vent,Djibouti,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,1978 CE,11,11,2895.0,2895.0,6898.0,560146.0,298,978
+68,Arenal,Stratovolcano,Costa Rica,México and Central America,Costa Rica,holocene,2010 CE,10,10,3429.0,15643.0,96512.0,3027485.0,1670,5479
+69,"Arhab, Harra of",Volcanic field,Yemen,Middle East and Indian Ocean,Middle East (southern),holocene,500 CE,15,15,284443.0,284443.0,820695.0,6517834.0,3100,10171
+70,Arjuno-Welirang,Stratovolcano,Indonesia,Indonesia,Java,holocene,1952 CE,7,7,2584.0,53983.0,4143137.0,25385433.0,3343,10968
+71,Arxan-Chaihe,Pyroclastic cone,China,Kamchatka and Mainland Asia,China (eastern),holocene,0 CE,47,47,6435.0,6435.0,6435.0,188163.0,1677,5502
+73,Asamayama,Complex,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,2019 CE,36,36,583.0,22371.0,457576.0,7629353.0,2568,8425
+74,Asavyo,Shield,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,13,13,84.0,479.0,7697.0,47836.0,1338,4390
+75,Ascension,Stratovolcano,United Kingdom,Atlantic Ocean,Atlantic Ocean (central),holocene,1508 CE,7,7,614.0,1149.0,1149.0,1149.0,858,2815
+77,Asosan,Caldera,Japan,"Japan, Taiwan, Marianas",Ryukyu Islands and Kyushu,holocene,2021 CE,32,32,75559.0,75559.0,234591.0,6507519.0,1592,5223
+78,Assab Volcanic Field,Volcanic field,Eritrea,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,12,12,9.0,9.0,97.0,181952.0,987,3238
+80,Ata,Caldera,Japan,"Japan, Taiwan, Marianas",Ryukyu Islands and Kyushu,holocene,885 CE,31,31,93134.0,93134.0,171590.0,1891380.0,924,3031
+81,Atacazo,Stratovolcano,Ecuador,South America,Ecuador,holocene,320 BCE,0,0,449.0,212988.0,1837303.0,3769593.0,4463,14642
+83,Atitlan,Stratovolcano,Guatemala,México and Central America,Guatemala,holocene,1853 CE,14,14,2303.0,70431.0,664649.0,8029695.0,3535,11598
+86,"Atlixcos, Los",Shield,Mexico,México and Central America,Mexico,holocene,Unknown - Evidence Credible,19,19,5792.0,13732.0,115456.0,2971490.0,775,2543
+87,"Atuel, Caldera del",Caldera,Argentina,South America,Central Chile and Argentina,holocene,Unknown - Evidence Credible,34,34,297.0,297.0,1003.0,676916.0,5189,17024
+88,Auckland Volcanic Field,Volcanic field,New Zealand,New Zealand to Fiji,New Zealand,holocene,1446 CE,36,36,1049110.0,1049110.0,1222436.0,1446768.0,260,853
+90,"Auquihuato, Cerro",Pyroclastic cone,Peru,South America,Peru,holocene,Unknown - Evidence Uncertain,15,15,213.0,1324.0,12228.0,173927.0,4980,16339
+92,Awu,Stratovolcano,Indonesia,Indonesia,Sangihe Islands,holocene,2004 CE,3,3,6409.0,22655.0,52725.0,58719.0,1318,4324
+94,Ayelu,Stratovolcano,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,10,10,193.0,1375.0,33262.0,1279214.0,2145,7037
+95,Azas Plateau,Volcanic field,Russia,Kamchatka and Mainland Asia,Russia (southeastern),holocene,Unknown - Evidence Credible,52,52,142.0,142.0,142.0,4532.0,2765,9072
+96,Azufral,Stratovolcano,Colombia,South America,Colombia,holocene,930 BCE,1,1,4334.0,40657.0,387292.0,1817609.0,4070,13353
+97,"Azul, Cerro",Shield,Ecuador,South America,Galapagos Islands,holocene,2008 CE,0,0,220.0,220.0,314.0,1936.0,1640,5381
+98,"Azul, Cerro",Stratovolcano,Chile,South America,Central Chile and Argentina,holocene,1967 CE,35,35,9.0,158.0,3832.0,720948.0,3788,12428
+99,Azumayama,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,1977 CE,37,37,128.0,907.0,548195.0,4877648.0,1949,6394
+100,Babuyan Claro,Stratovolcano,Philippines,Philippines and SE Asia,North of Luzon,holocene,1924 CE,19,19,208.0,222.0,222.0,11819.0,1064,3491
+101,Bachelor,Stratovolcano,United States,Canada and Western USA,USA (Oregon),holocene,5800 BCE,43,43,18.0,24.0,22514.0,231420.0,2763,9065
+102,Bagana,Lava cone,Papua New Guinea,Melanesia and Australia,Bougainville and Solomon Islands,holocene,2022 CE,6,6,198.0,404.0,7861.0,115257.0,1855,6086
+105,Balbi,Stratovolcano,Papua New Guinea,Melanesia and Australia,Bougainville and Solomon Islands,holocene,Unknown - Evidence Credible,5,5,314.0,505.0,11904.0,127928.0,2715,8907
+106,Balhaf-Bir Ali Volcanic Field,Volcanic field,Yemen,Middle East and Indian Ocean,Middle East (southern),holocene,Unknown - Evidence Credible,14,14,5690.0,5690.0,6643.0,177124.0,604,1982
+107,Baluan,Stratovolcano,Papua New Guinea,Melanesia and Australia,Admiralty Islands,holocene,Unknown - Evidence Uncertain,2,2,242.0,248.0,982.0,46898.0,254,833
+108,Baluran,Stratovolcano,Indonesia,Indonesia,Java,holocene,Unknown - Evidence Uncertain,7,7,1313.0,59107.0,437688.0,5474053.0,1247,4091
+109,Balut,Stratovolcano,Philippines,Philippines and SE Asia,Mindanao,holocene,Unknown - Unrest / Holocene,5,5,1472.0,1901.0,10763.0,1286239.0,862,2828
+110,Bam,Stratovolcano,Papua New Guinea,Melanesia and Australia,Northeast of New Guinea,holocene,1960 CE,3,3,192.0,192.0,462.0,103203.0,685,2247
+111,Bamus,Stratovolcano,Papua New Guinea,Melanesia and Australia,New Britain,holocene,1886 CE,5,5,50.0,630.0,19320.0,71997.0,2248,7375
+112,Banahaw,Complex,Philippines,Philippines and SE Asia,Luzon,holocene,Unknown - Evidence Credible,14,14,754.0,93134.0,1698285.0,23837289.0,2158,7080
+113,Banda Api,Caldera,Indonesia,Indonesia,Banda Sea,holocene,1988 CE,4,4,5682.0,5682.0,5810.0,5810.0,596,1955
+114,Bandaisan,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,1888 CE,37,37,5923.0,17608.0,327454.0,4709782.0,1816,5958
+115,Banua Wuhu,Submarine,Indonesia,Indonesia,Sangihe Islands,holocene,1919 CE,3,3,359.0,480.0,4586.0,69756.0,-5,-16
+119,Barren Island,Stratovolcano,India,Indonesia,Andaman Islands,holocene,2022 CE,12,12,645.0,645.0,645.0,5035.0,354,1161
+120,"Barrier, The",Shield,Kenya,Africa and Red Sea,Africa (eastern),holocene,1921 CE,2,2,17.0,112.0,4180.0,109675.0,1032,3386
+121,Baru,Stratovolcano,Panama,México and Central America,Panama,holocene,1550 CE,8,8,118.0,6983.0,79933.0,756597.0,3474,11398
+122,Barva,Complex,Costa Rica,México and Central America,Costa Rica,holocene,6050 BCE,10,10,177.0,8018.0,2004665.0,3399329.0,2906,9534
+123,Batur,Caldera,Indonesia,Indonesia,Lesser Sunda Islands,holocene,2000 CE,8,8,466899.0,466899.0,937766.0,4289189.0,1717,5633
+125,Bayuda Volcanic Field,Pyroclastic cone,Sudan,Africa and Red Sea,Africa (northern),holocene,850 CE,18,18,1124.0,1124.0,2752.0,259325.0,670,2198
+126,Bazman,Stratovolcano,Iran,Middle East and Indian Ocean,Middle East (eastern),holocene,Unknown - Unrest / Holocene,28,28,8.0,64.0,7370.0,102151.0,3490,11450
+130,Beru,Volcanic field,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,8,8,3850.0,20176.0,196084.0,3809644.0,1100,3609
+133,Bibinoi,Stratovolcano,Indonesia,Indonesia,Halmahera,holocene,Unknown - Evidence Credible,0,0,53.0,4276.0,15604.0,83771.0,932,3058
+134,Bilate River Field,Maar,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Unrest / Holocene,7,7,359001.0,359001.0,1222547.0,9860754.0,1700,5577
+135,Biliran,Compound,Philippines,Philippines and SE Asia,Central Philippines,holocene,1939 CE,11,11,4612.0,78799.0,254519.0,3177850.0,1301,4268
+136,Billy Mitchell,Pyroclastic shield,Papua New Guinea,Melanesia and Australia,Bougainville and Solomon Islands,holocene,1580 CE,6,6,113.0,449.0,9620.0,119191.0,1544,5066
+137,Bir Borhut,Volcanic field,Yemen,Middle East and Indian Ocean,Middle East (southern),holocene,Unknown - Evidence Uncertain,15,15,517.0,517.0,2117.0,115648.0,464,1522
+138,"Birk, Harrat al",Volcanic field,Saudi Arabia,Middle East and Indian Ocean,Middle East (southern),holocene,Unknown - Evidence Credible,18,18,37855.0,37855.0,37855.0,596401.0,587,1926
+139,Bishoftu Volcanic Field,Fissure vent,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,8,8,310101.0,310101.0,662037.0,7986826.0,1850,6070
+140,Black Butte Crater Lava Field,Shield,United States,Canada and Western USA,USA (Idaho),holocene,8400 BCE,43,43,119.0,158.0,4440.0,171376.0,1478,4849
+142,Black Rock Desert,Volcanic field,United States,Canada and Western USA,USA (Utah),holocene,1290 CE,38,38,3292.0,3292.0,3679.0,54291.0,1800,5906
+144,"Blancas, Lomas",Stratovolcano,Chile,South America,Central Chile and Argentina,holocene,Unknown - Evidence Credible,36,36,127.0,398.0,1980.0,355814.0,2268,7441
+145,"Blanco, Cerro",Caldera,Argentina,South America,"Northern Chile, Bolivia and Argentina",holocene,2300 BCE,26,26,39.0,39.0,65.0,14279.0,4670,15322
+147,Blue Lake Crater,Maar,United States,Canada and Western USA,USA (Oregon),holocene,680 CE,44,44,19.0,308.0,6914.0,286219.0,1230,4035
+148,Blup Blup,Stratovolcano,Papua New Guinea,Melanesia and Australia,Northeast of New Guinea,holocene,Unknown - Evidence Credible,3,3,270.0,270.0,462.0,93315.0,402,1319
+151,Boisa,Stratovolcano,Papua New Guinea,Melanesia and Australia,Northeast of New Guinea,holocene,Unknown - Evidence Uncertain,3,3,139.0,1343.0,18874.0,177478.0,240,787
+152,Bola,Stratovolcano,Papua New Guinea,Melanesia and Australia,New Britain,holocene,Unknown - Evidence Credible,5,5,73.0,387.0,8601.0,116418.0,1116,3661
+157,Bora-Bericcio,Pyroclastic cone,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,8,8,5822.0,44666.0,433373.0,8356559.0,2267,7438
+158,Borawli,Stratovolcano,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,13,13,38.0,100.0,3699.0,111101.0,784,2572
+159,Boset-Bericha,Stratovolcano,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,8,8,3267.0,19603.0,586318.0,7130451.0,2447,8028
+161,Brava,Stratovolcano,Cape Verde,Atlantic Ocean,Cape Verde Islands,holocene,Unknown - Evidence Credible,14,14,5631.0,6644.0,25852.0,43281.0,900,2953
+162,"Bravo, Cerro",Stratovolcano,Colombia,South America,Colombia,holocene,1720 CE,5,5,1679.0,4916.0,538690.0,3929468.0,3985,13074
+163,Brennisteinsfjoll,Crater rows,Iceland,Iceland and Arctic Ocean,Iceland (southwestern),holocene,1341 CE,63,63,33526.0,33526.0,163469.0,203012.0,610,2001
+164,Bridge River Cones,Volcanic field,Canada,Canada and Western USA,Canada,holocene,Unknown - Evidence Credible,50,50,55.0,55.0,219.0,15871.0,2500,8202
+169,Bufumbira,Pyroclastic cone,Uganda,Africa and Red Sea,Africa (central),holocene,Unknown - Evidence Uncertain,1,1,436134.0,436134.0,830916.0,10342253.0,2100,6890
+171,Bulusan,Stratovolcano,Philippines,Philippines and SE Asia,Luzon,holocene,2017 CE,12,12,2789.0,74286.0,518705.0,3360418.0,1535,5036
+172,Bunyaruguru,Maar,Uganda,Africa and Red Sea,Africa (central),holocene,Unknown - Evidence Credible,0,0,177517.0,177517.0,338735.0,5955535.0,1554,5098
+174,Butajiri-Silti Field,Fissure vent,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,8,8,431631.0,431631.0,889323.0,7096283.0,2281,7484
+175,Buyan-Bratan,Caldera,Indonesia,Indonesia,Lesser Sunda Islands,holocene,Unknown - Evidence Credible,8,8,333333.0,333333.0,935879.0,4355947.0,2244,7362
+177,Cabalían,Stratovolcano,Philippines,Philippines and SE Asia,Central Philippines,holocene,1820 CE,10,10,26511.0,88767.0,277950.0,2091362.0,912,2992
+178,Caburgua-Huelemolle,Pyroclastic cone,Chile,South America,Central Chile and Argentina,holocene,5050 BCE,39,39,5951.0,5951.0,17774.0,521553.0,1652,5420
+179,Cagua,Stratovolcano,Philippines,Philippines and SE Asia,Luzon,holocene,1860 CE,18,18,99.0,1137.0,34018.0,1480952.0,1133,3717
+181,Calabozos,Caldera,Chile,South America,Central Chile and Argentina,holocene,Unknown - Evidence Credible,35,35,550.0,550.0,1023.0,305637.0,3508,11509
+182,Calatrava Volcanic Field,Pyroclastic cone,Spain,Mediterranean and Western Asia,Western Europe,holocene,3600 BCE,38,38,197199.0,197199.0,197199.0,774386.0,1117,3665
+183,Calbuco,Stratovolcano,Chile,South America,Southern Chile and Argentina,holocene,2015 CE,41,41,70.0,871.0,32265.0,575233.0,1974,6476
+184,Callaqui,Stratovolcano,Chile,South America,Central Chile and Argentina,holocene,1980 CE,37,37,56.0,294.0,4354.0,400426.0,3164,10381
+185,Cameroon,Stratovolcano,Cameroon,Africa and Red Sea,Africa (western),holocene,2000 CE,4,4,328.0,26053.0,417460.0,3079036.0,4095,13435
+186,Camiguin,Stratovolcano,Philippines,Philippines and SE Asia,Mindanao,holocene,1953 CE,9,9,12173.0,51587.0,92178.0,2871353.0,1552,5092
+187,Camiguin de Babuyanes,Stratovolcano,Philippines,Philippines and SE Asia,North of Luzon,holocene,1857 CE,18,18,876.0,1066.0,1369.0,409653.0,712,2336
+188,Campi Flegrei,Caldera,Italy,Mediterranean and Western Asia,Italy,holocene,1538 CE,40,40,2234109.0,2234109.0,3006865.0,6019697.0,458,1503
+189,Campi Flegrei del Mar di Sicilia,Submarine,Italy,Mediterranean and Western Asia,Italy,holocene,1867 CE,37,37,230578.0,230578.0,230578.0,633350.0,-8,-26
+192,Carran-Los Venados,Pyroclastic cone,Chile,South America,Central Chile and Argentina,holocene,1979 CE,40,40,4840.0,4840.0,9001.0,452820.0,1114,3655
+193,Carrizozo,Pyroclastic cone,United States,Canada and Western USA,USA (New Mexico),holocene,3250 BCE,33,33,2.0,11.0,2596.0,89711.0,1731,5679
+194,"Casiri, Nevados",Stratovolcano,Peru,South America,Peru,holocene,Unknown - Evidence Credible,17,17,233.0,922.0,15247.0,419038.0,5650,18537
+196,Cayambe,Compound,Ecuador,South America,Ecuador,holocene,1786 CE,0,0,70.0,1148.0,109630.0,3154986.0,5790,18996
+198,Cayutue-La Vigueria,Pyroclastic cone,Chile,South America,Southern Chile and Argentina,holocene,190 BCE,41,41,1737.0,1737.0,5482.0,451311.0,506,1660
+199,Ceboruco,Stratovolcano,Mexico,México and Central America,Mexico,holocene,1875 CE,21,21,616.0,30319.0,93057.0,1282014.0,2280,7480
+202,Central Island,Tuff cone,Kenya,Africa and Red Sea,Africa (eastern),holocene,Unknown - Evidence Credible,3,3,28.0,28.0,10253.0,216485.0,518,1699
+203,Ch'uga-ryong,Shield,North Korea,Kamchatka and Mainland Asia,Korea,holocene,Unknown - Evidence Uncertain,38,38,1668.0,23030.0,262911.0,15245593.0,452,1483
+204,Chacana,Caldera,Ecuador,South America,Ecuador,holocene,1773 CE,0,0,81716.0,81716.0,348743.0,3292546.0,4643,15233
+205,Chachadake [Tiatia],Stratovolcano,Japan,Kuril Islands,Kuril Islands,holocene,1981 CE,44,44,3.0,223.0,896.0,16275.0,1822,5978
+206,"Chachani, Nevado",Stratovolcano,Peru,South America,Peru,holocene,Unknown - Evidence Uncertain,16,16,97.0,1182.0,887176.0,1032411.0,6057,19872
+207,Chachimbiro,Stratovolcano,Ecuador,South America,Ecuador,holocene,3740 BCE,0,0,125.0,5299.0,356162.0,3253458.0,4106,13471
+209,Chaine des Puys,Lava dome,France,Mediterranean and Western Asia,Western Europe,holocene,4040 BCE,45,45,323392.0,323392.0,427221.0,1577243.0,1464,4803
+210,Chaiten,Caldera,Chile,South America,Southern Chile and Argentina,holocene,2011 CE,42,42,8968.0,8968.0,9280.0,75311.0,1122,3681
+211,Changbaishan,Stratovolcano,China,Kamchatka and Mainland Asia,China (eastern),holocene,1903 CE,41,41,268.0,1833.0,29476.0,1660355.0,2744,9003
+213,Chichinautzin,Volcanic field,Mexico,México and Central America,Mexico,holocene,400 CE,19,19,584725.0,584725.0,4061942.0,28030794.0,3930,12894
+214,"Chichon, El",Lava dome,Mexico,México and Central America,Mexico,holocene,1982 CE,17,17,3759.0,11000.0,143015.0,3570632.0,1150,3773
+217,Chiles-Cerro Negro,Stratovolcano,Colombia,South America,Colombia,holocene,1936 CE,0,0,977.0,4573.0,151519.0,1826460.0,4698,15413
+219,"Chillan, Nevados de",Stratovolcano,Chile,South America,Central Chile and Argentina,holocene,2022 CE,36,36,68.0,371.0,3733.0,512325.0,3180,10433
+220,Chimborazo,Stratovolcano,Ecuador,South America,Ecuador,holocene,550 CE,1,1,442.0,7561.0,463426.0,2325666.0,6261,20541
+221,Chinameca,Stratovolcano,El Salvador,México and Central America,El Salvador and Honduras,holocene,Unknown - Evidence Credible,13,13,14998.0,89206.0,824983.0,4897760.0,1300,4265
+222,Chingo,Stratovolcano,Guatemala,México and Central America,Guatemala,holocene,Unknown - Evidence Credible,14,14,330595.0,330595.0,867678.0,7235923.0,1775,5823
+223,Chiquimula Volcanic Field,Pyroclastic cone,Guatemala,México and Central America,Guatemala,holocene,Unknown - Evidence Credible,14,14,240892.0,240892.0,412617.0,3740914.0,1192,3911
+225,Chirippusan [Chirip],Stratovolcano,Japan,Kuril Islands,Kuril Islands,holocene,1860 CE,45,45,77.0,372.0,1125.0,4810.0,1587,5207
+226,Chirpoi,Caldera,Russia,Kuril Islands,Kuril Islands,holocene,2016 CE,46,46,1.0,1.0,3.0,491.0,742,2434
+227,Chokaisan,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,1974 CE,39,39,131.0,707.0,185681.0,2301576.0,2236,7336
+229,Chyulu Hills,Volcanic field,Kenya,Africa and Red Sea,Africa (eastern),holocene,1855 CE,2,2,14889.0,14889.0,91280.0,1784980.0,2188,7178
+230,"Ciguatepe, Cerro el",Stratovolcano,Nicaragua,México and Central America,Nicaragua,holocene,Unknown - Evidence Uncertain,12,12,100.0,3187.0,88943.0,3635767.0,603,1978
+231,Cinnamon Butte,Pyroclastic cone,United States,Canada and Western USA,USA (Oregon),holocene,Unknown - Evidence Uncertain,43,43,113.0,113.0,913.0,69577.0,1956,6417
+232,"Cinotepeque, Cerro",Volcanic field,El Salvador,México and Central America,El Salvador and Honduras,holocene,Unknown - Evidence Credible,14,14,9831.0,60668.0,743867.0,6953850.0,665,2182
+233,Ciremai,Stratovolcano,Indonesia,Indonesia,Java,holocene,1951 CE,6,6,915.0,67377.0,3058015.0,25718820.0,3039,9970
+235,Clear Lake,Volcanic field,United States,Canada and Western USA,USA (California),holocene,Unknown - Evidence Credible,38,38,52801.0,52801.0,71791.0,1059280.0,1439,4721
+239,Coatepeque Caldera,Caldera,El Salvador,México and Central America,El Salvador and Honduras,holocene,Unknown - Evidence Credible,13,13,616730.0,616730.0,1210307.0,6486011.0,746,2448
+242,Cofre de Perote,Compound,Mexico,México and Central America,Mexico,holocene,1150 CE,19,19,658.0,18638.0,885440.0,4907992.0,4282,14049
+245,Colima,Stratovolcano,Mexico,México and Central America,Mexico,holocene,2019 CE,19,19,76.0,746.0,303490.0,1494790.0,3850,12631
+246,Colli Albani,Caldera,Italy,Mediterranean and Western Asia,Italy,holocene,Unknown - Evidence Uncertain,41,41,897039.0,897039.0,2962194.0,5330273.0,949,3114
+247,Colo,Stratovolcano,Indonesia,Indonesia,Sulawesi,holocene,1983 CE,0,0,1897.0,2025.0,2025.0,229592.0,404,1325
+248,Comondu-La Purisima,Volcanic field,Mexico,México and Central America,Mexico,holocene,Unknown - Evidence Uncertain,26,26,1033.0,1033.0,2365.0,43271.0,780,2559
+249,Concepcion,Stratovolcano,Nicaragua,México and Central America,Nicaragua,holocene,2011 CE,11,11,14072.0,28900.0,92378.0,2266903.0,1700,5577
+251,Copahue,Stratovolcano,Chile,South America,Central Chile and Argentina,holocene,2021 CE,37,37,88.0,555.0,3042.0,138414.0,2953,9688
+252,Corbetti Caldera,Caldera,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,7,7,565206.0,565206.0,1171948.0,9794061.0,2320,7612
+253,Corcovado,Stratovolcano,Chile,South America,Southern Chile and Argentina,holocene,4920 BCE,43,43,5.0,67.0,5546.0,62134.0,1826,5991
+256,Coronado,Stratovolcano,Mexico,México and Central America,Mexico,holocene,Unknown - Unrest / Holocene,29,29,2.0,37.0,1096.0,17157.0,440,1444
+257,Coropuna,Stratovolcano,Peru,South America,Peru,holocene,Unknown - Evidence Credible,15,15,37.0,502.0,15589.0,136689.0,6377,20922
+258,Corrida de Cori Volcanic Field,Stratovolcano,Chile,South America,"Northern Chile, Bolivia and Argentina",holocene,Unknown - Evidence Uncertain,25,25,1.0,17.0,227.0,7141.0,5451,17884
+259,Cosiguina,Stratovolcano,Nicaragua,México and Central America,Nicaragua,holocene,1859 CE,12,12,143.0,4114.0,18876.0,2179830.0,872,2861
+260,Cotopaxi,Stratovolcano,Ecuador,South America,Ecuador,holocene,2016 CE,0,0,251.0,7299.0,152139.0,3631492.0,5911,19393
+261,Crater Basalt Volcanic Field,Pyroclastic cone,Argentina,South America,Southern Chile and Argentina,holocene,Unknown - Evidence Credible,42,42,448.0,448.0,1140.0,20539.0,1344,4409
+262,Crater Lake,Caldera,United States,Canada and Western USA,USA (Oregon),holocene,2850 BCE,42,42,52.0,52.0,366.0,272674.0,2487,8159
+263,Craters of the Moon,Pyroclastic cone,United States,Canada and Western USA,USA (Idaho),holocene,130 BCE,43,43,15.0,15.0,1459.0,93300.0,2005,6578
+265,Cuernos de Negros,Complex,Philippines,Philippines and SE Asia,Central Philippines,holocene,Unknown - Unrest / Holocene,9,9,1458.0,39681.0,531644.0,2960980.0,1862,6109
+266,Cuicocha,Caldera,Ecuador,South America,Ecuador,holocene,650 CE,0,0,178815.0,178815.0,364146.0,3193683.0,3246,10650
+267,Cuilapa-Barbarena,Volcanic field,Guatemala,México and Central America,Guatemala,holocene,Unknown - Evidence Credible,14,14,119602.0,119602.0,987252.0,6943297.0,1454,4770
+268,Cumbal,Stratovolcano,Colombia,South America,Colombia,holocene,1926 CE,0,0,1405.0,10206.0,244853.0,1800919.0,4764,15630
+269,"Cumbres,  Las",Stratovolcano,Mexico,México and Central America,Mexico,holocene,3920 BCE,19,19,113.0,1923.0,315004.0,6365085.0,3940,12927
+272,Dabbahu,Stratovolcano,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,2005 CE,12,12,204.0,1150.0,36494.0,540735.0,1401,4596
+273,Dabbayra,Shield,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,12,12,804.0,3324.0,47053.0,1946949.0,1302,4272
+275,Dakataua,Caldera,Papua New Guinea,Melanesia and Australia,New Britain,holocene,1895 CE,5,5,1147.0,1147.0,3743.0,113954.0,408,1339
+276,Dallol,Explosion crater,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,2011 CE,14,14,461.0,670.0,2372.0,820823.0,-48,-157
+277,Dama Ali,Shield,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,1631 CE,11,11,24.0,1944.0,40013.0,353949.0,1068,3504
+278,Damavand,Stratovolcano,Iran,Middle East and Indian Ocean,Middle East (western),holocene,5350 BCE,35,35,27.0,2295.0,59171.0,11945981.0,5670,18602
+280,Dariganga Volcanic Field,Pyroclastic cone,Mongolia,Kamchatka and Mainland Asia,Mongolia,holocene,Unknown - Evidence Credible,45,45,18247.0,18247.0,18247.0,25280.0,1778,5833
+281,Darwin,Shield,Ecuador,South America,Galapagos Islands,holocene,1813 CE,0,0,190.0,190.0,343.0,2366.0,1330,4364
+282,"Daun, Bukit",Stratovolcano,Indonesia,Indonesia,Sumatra,holocene,Unknown - Unrest / Holocene,3,3,4088.0,42410.0,425096.0,2318233.0,2467,8094
+284,Davis Lake,Volcanic field,United States,Canada and Western USA,USA (Oregon),holocene,2790 BCE,43,43,1440.0,1440.0,7483.0,164597.0,2163,7096
+285,Dawson Strait Group,Volcanic field,Papua New Guinea,Melanesia and Australia,New Guinea and D'Entrecasteaux Islands,holocene,1350 CE,9,9,5388.0,5388.0,7721.0,80476.0,500,1640
+287,Dempo,Stratovolcano,Indonesia,Indonesia,Sumatra,holocene,2017 CE,4,4,124.0,9613.0,96058.0,2307584.0,3142,10308
+289,Descabezado Grande,Stratovolcano,Chile,South America,Central Chile and Argentina,holocene,1933 CE,35,35,39.0,142.0,3454.0,704116.0,3953,12969
+290,Devils Garden,Volcanic field,United States,Canada and Western USA,USA (Oregon),holocene,Unknown - Evidence Uncertain,43,43,51.0,51.0,287.0,162601.0,1698,5571
+291,"Dhamar, Harras of",Volcanic field,Yemen,Middle East and Indian Ocean,Middle East (southern),holocene,1937 CE,14,14,791276.0,791276.0,791276.0,5778965.0,3500,11483
+292,"Diables, Morne aux",Lava dome,Dominica,West Indies,West Indies,holocene,Unknown - Evidence Credible,15,15,8048.0,12036.0,33148.0,479470.0,861,2825
+293,"Diablotins, Morne",Stratovolcano,Dominica,West Indies,West Indies,holocene,Unknown - Evidence Uncertain,15,15,423.0,9775.0,69935.0,513702.0,1430,4692
+294,Diamond Craters,Volcanic field,United States,Canada and Western USA,USA (Oregon),holocene,5610 BCE,43,43,66.0,66.0,136.0,6969.0,1435,4708
+296,Dieng Volcanic Complex,Complex,Indonesia,Indonesia,Java,holocene,2021 CE,7,7,1092929.0,1092929.0,1886942.0,24381814.0,2565,8415
+298,Dofan,Shield,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,9,9,1900.0,12452.0,54928.0,2900053.0,1151,3776
+300,Dona Juana,Stratovolcano,Colombia,South America,Colombia,holocene,1906 CE,1,1,1524.0,5372.0,160615.0,1626081.0,4137,13573
+301,Dotsero,Maar,United States,Canada and Western USA,USA (Colorado),holocene,2200 BCE,39,39,725.0,4821.0,30534.0,182405.0,2230,7316
+306,Dukono,Complex,Indonesia,Indonesia,Halmahera,holocene,2022 CE,1,1,1575.0,3348.0,101506.0,393070.0,1229,4032
+308,Durango Volcanic Field,Pyroclastic cone,Mexico,México and Central America,Mexico,holocene,Unknown - Evidence Credible,24,24,571282.0,571282.0,571282.0,797133.0,2075,6808
+312,East Chamo Basin,Pyroclastic cone,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,5,5,78416.0,78416.0,194759.0,2991755.0,1150,3773
+315,East Ziway,Fissure vent,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,7,7,85845.0,85845.0,432279.0,6051149.0,1889,6198
+318,Ebulobo,Stratovolcano,Indonesia,Indonesia,Lesser Sunda Islands,holocene,1969 CE,8,8,1278.0,24149.0,140204.0,674614.0,2096,6877
+319,"Eburru, Ol Doinyo",Complex,Kenya,Africa and Red Sea,Africa (eastern),holocene,Unknown - Evidence Credible,0,0,460.0,9365.0,323529.0,7992639.0,2856,9370
+320,Ecuador,Shield,Ecuador,South America,Galapagos Islands,holocene,1150 CE,0,0,135.0,135.0,193.0,894.0,790,2592
+323,Egon,Stratovolcano,Indonesia,Indonesia,Lesser Sunda Islands,holocene,2008 CE,8,8,818.0,23263.0,250257.0,868670.0,1661,5449
+325,Elbrus,Stratovolcano,Russia,Mediterranean and Western Asia,Western Asia,holocene,50 CE,43,43,26.0,195.0,5718.0,1469719.0,5642,18510
+327,Elmenteita Badlands,Pyroclastic cone,Kenya,Africa and Red Sea,Africa (eastern),holocene,Unknown - Evidence Credible,0,0,134553.0,134553.0,445904.0,6117963.0,2126,6975
+330,Emuruangogolak,Shield,Kenya,Africa and Red Sea,Africa (eastern),holocene,1910 CE,1,1,80.0,252.0,4448.0,445177.0,1285,4216
+333,Erciyes Dagi,Stratovolcano,Turkey,Mediterranean and Western Asia,Turkey,holocene,6880 BCE,38,38,1715.0,8036.0,767813.0,1817720.0,3864,12677
+335,Erta Ale,Shield,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,2022 CE,13,13,2685.0,2796.0,8857.0,235083.0,613,2011
+336,Esan,Lava dome,Japan,"Japan, Taiwan, Marianas",Hokkaido,holocene,1874 CE,41,41,1734.0,5831.0,33197.0,916560.0,618,2028
+341,Esteli,Fissure vent,Nicaragua,México and Central America,Nicaragua,holocene,Unknown - Evidence Uncertain,13,13,133804.0,133804.0,246244.0,2574633.0,899,2949
+342,Etna,Stratovolcano,Italy,Mediterranean and Western Asia,Italy,holocene,2022 CE,37,37,78.0,3291.0,1016540.0,3052770.0,3320,10892
+343,Etorofu-Atosanupuri [Atosanupuri],Stratovolcano,Japan,Kuril Islands,Kuril Islands,holocene,1932 CE,44,44,1.0,289.0,644.0,4311.0,1206,3957
+348,Fayal,Stratovolcano,Portugal,Atlantic Ocean,Azores,holocene,1958 CE,38,38,1514.0,13757.0,24414.0,50663.0,1041,3415
+349,Fentale,Stratovolcano,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,1820 CE,8,8,1919.0,14201.0,169357.0,3482286.0,2007,6585
+350,Fernandina,Shield,Ecuador,South America,Galapagos Islands,holocene,2020 CE,0,0,129.0,129.0,208.0,1972.0,1476,4843
+352,Flores,Volcanic field,Guatemala,México and Central America,Guatemala,holocene,Unknown - Evidence Credible,14,14,205145.0,205145.0,397357.0,7489933.0,1600,5249
+353,Flores,Stratovolcano,Portugal,Atlantic Ocean,Azores,holocene,950 BCE,39,39,1054.0,4560.0,5825.0,5865.0,914,2999
+354,Fogo,Stratovolcano,Cape Verde,Atlantic Ocean,Cape Verde Islands,holocene,2015 CE,14,14,189.0,13254.0,37650.0,267298.0,2829,9281
+355,Fonuafo'ou,Submarine,Tonga,New Zealand to Fiji,Tonga Islands,holocene,1936 CE,20,20,302.0,302.0,532.0,69016.0,-17,-56
+356,Fonualei,Stratovolcano,Tonga,New Zealand to Fiji,Tonga Islands,holocene,1957 CE,18,18,71.0,71.0,91.0,17857.0,188,617
+358,Fort Portal,Tuff cone,Uganda,Africa and Red Sea,Africa (central),holocene,2120 BCE,0,0,242914.0,242914.0,498815.0,4167189.0,1615,5299
+359,Fort Selkirk,Volcanic field,Canada,Canada and Western USA,Canada,holocene,Unknown - Evidence Uncertain,62,62,6.0,6.0,6.0,491.0,1239,4065
+360,"Fournaise, Piton de la",Shield,France,Middle East and Indian Ocean,Indian Ocean (western),holocene,2022 CE,21,21,55859.0,55859.0,246792.0,717820.0,2632,8635
+364,Fuego,Stratovolcano,Guatemala,México and Central America,Guatemala,holocene,2022 CE,14,14,1373.0,54332.0,1016339.0,7677809.0,3763,12346
+365,Fueguino,Lava dome,Chile,South America,Southern Chile and Argentina,holocene,1820 CE,54,54,18.0,78.0,294.0,1296.0,157,515
+366,Fuerteventura,Fissure vent,Spain,Atlantic Ocean,Canary Islands,holocene,Unknown - Evidence Credible,28,28,1432.0,8752.0,52038.0,226781.0,529,1736
+367,Fujisan,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,1708 CE,35,35,570.0,1759.0,906969.0,25022187.0,3776,12388
+368,Fukue,Shield,Japan,"Japan, Taiwan, Marianas",Ryukyu Islands and Kyushu,holocene,400 BCE,32,32,18334.0,40407.0,61450.0,704523.0,315,1033
+370,Fukutoku-Oka-no-Ba,Submarine,Japan,"Japan, Taiwan, Marianas","Izu, Volcano, and Mariana Islands",holocene,2021 CE,24,24,11.0,19.0,19.0,951.0,-29,-95
+371,Furnas,Stratovolcano,Portugal,Atlantic Ocean,Azores,holocene,1630 CE,37,37,1333.0,7310.0,87865.0,153182.0,805,2641
+373,Gabillema,Stratovolcano,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,11,11,248.0,772.0,12626.0,373968.0,1459,4787
+374,Gada Ale,Stratovolcano,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,13,13,101.0,605.0,4827.0,618972.0,287,942
+376,Galeras,Complex,Colombia,South America,Colombia,holocene,2014 CE,1,1,705.0,120817.0,630777.0,1700248.0,4276,14029
+377,Gallego,Volcanic field,Solomon Islands,Melanesia and Australia,Bougainville and Solomon Islands,holocene,Unknown - Evidence Uncertain,9,9,10017.0,10017.0,81587.0,169626.0,1000,3281
+378,Galunggung,Stratovolcano,Indonesia,Indonesia,Java,holocene,1984 CE,7,7,4781.0,66495.0,2382939.0,23897342.0,2168,7113
+379,Gamalama,Stratovolcano,Indonesia,Indonesia,Halmahera,holocene,2018 CE,0,0,103429.0,204820.0,308691.0,536972.0,1715,5627
+381,Gamkonora,Stratovolcano,Indonesia,Indonesia,Halmahera,holocene,2007 CE,1,1,3354.0,12744.0,61376.0,627128.0,1635,5364
+384,Garibaldi Lake,Volcanic field,Canada,Canada and Western USA,Canada,holocene,Unknown - Evidence Credible,49,49,6635.0,6635.0,28109.0,2218089.0,2316,7598
+385,Garove,Stratovolcano,Papua New Guinea,Melanesia and Australia,New Britain,holocene,Unknown - Evidence Credible,4,4,4259.0,5887.0,6388.0,18704.0,368,1207
+386,Garua Harbour,Volcanic field,Papua New Guinea,Melanesia and Australia,New Britain,holocene,Unknown - Evidence Uncertain,5,5,12090.0,12090.0,44354.0,123676.0,565,1854
+387,Gaua,Stratovolcano,Vanuatu,Melanesia and Australia,Vanuatu,holocene,2011 CE,14,14,166.0,1200.0,2848.0,8834.0,797,2615
+388,Gedamsa,Caldera,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,8,8,216008.0,216008.0,744211.0,8000105.0,1873,6145
+389,Gede-Pangrango,Stratovolcano,Indonesia,Indonesia,Java,holocene,1957 CE,6,6,2500.0,154390.0,2315469.0,40640105.0,3026,9928
+390,Genovesa,Shield,Ecuador,South America,Galapagos Islands,holocene,Unknown - Evidence Credible,0,0,197.0,197.0,197.0,2665.0,64,210
+391,Ghegham Volcanic Ridge,Volcanic field,Armenia,Mediterranean and Western Asia,Western Asia,holocene,1900 BCE,40,40,1265153.0,1265153.0,1265153.0,3151168.0,3597,11801
+394,"Gloria, La",Volcanic field,Mexico,México and Central America,Mexico,holocene,Unknown - Evidence Credible,19,19,108512.0,108512.0,290739.0,5697562.0,3500,11483
+395,Gollu Dag,Lava dome,Turkey,Mediterranean and Western Asia,Turkey,holocene,Unknown - Evidence Uncertain,38,38,835.0,20644.0,155618.0,2049981.0,2143,7031
+396,Goodenough,Volcanic field,Papua New Guinea,Melanesia and Australia,New Guinea and D'Entrecasteaux Islands,holocene,Unknown - Evidence Credible,9,9,7639.0,7639.0,17932.0,127955.0,220,722
+399,Graciosa,Stratovolcano,Portugal,Atlantic Ocean,Azores,holocene,1950 BCE,39,39,2500.0,5941.0,6153.0,96656.0,402,1319
+400,Gran Canaria,Fissure vent,Spain,Atlantic Ocean,Canary Islands,holocene,40 CE,28,28,1101.0,8049.0,697199.0,1119998.0,1950,6398
+401,Granada,Fissure vent,Nicaragua,México and Central America,Nicaragua,holocene,Unknown - Evidence Credible,11,11,105952.0,137880.0,678798.0,2722372.0,250,820
+404,"Grille, La",Shield,Comoros,Middle East and Indian Ocean,Indian Ocean (western),holocene,Unknown - Evidence Credible,11,11,154373.0,154373.0,243474.0,371795.0,1087,3566
+405,Grimsnes,Crater rows,Iceland,Iceland and Arctic Ocean,Iceland (southwestern),holocene,3500 BCE,64,64,6253.0,6253.0,11236.0,197798.0,200,656
+407,Groppo,Volcanic field,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,11,11,2411.0,10358.0,93790.0,2462199.0,852,2795
+409,Guagua Pichincha,Stratovolcano,Ecuador,South America,Ecuador,holocene,2002 CE,0,0,449.0,32488.0,2064475.0,3581801.0,4784,15696
+411,Guayaques,Lava dome,Chile,South America,"Northern Chile, Bolivia and Argentina",holocene,Unknown - Evidence Credible,22,22,2.0,26.0,408.0,9770.0,5598,18366
+412,Guazapa,Stratovolcano,El Salvador,México and Central America,El Salvador and Honduras,holocene,Unknown - Evidence Uncertain,13,13,6492.0,94131.0,2488228.0,6800406.0,1438,4718
+413,Gufa,Volcanic field,Eritrea,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,12,12,1651.0,1651.0,6301.0,186649.0,600,1969
+415,Guntur,Complex,Indonesia,Indonesia,Java,holocene,1847 CE,7,7,4652.0,218012.0,3412038.0,24486191.0,2251,7385
+416,Gunungapi Wetar,Stratovolcano,Indonesia,Indonesia,Banda Sea,holocene,1699 CE,6,6,2.0,2.0,2.0,2.0,282,925
+417,Hachijojima,Stratovolcano,Japan,"Japan, Taiwan, Marianas","Izu, Volcano, and Mariana Islands",holocene,1606 CE,33,33,11275.0,13560.0,13564.0,14082.0,854,2802
+418,Hachimantai,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,5350 BCE,39,39,268.0,1261.0,89833.0,3131126.0,1613,5292
+419,Hainan Volcanic Field,Pyroclastic cone,China,Philippines and SE Asia,Southeast Asia,holocene,1933 CE,19,19,1731229.0,1731229.0,1731229.0,6213231.0,196,643
+420,Hakkodasan,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,1550 CE,40,40,225.0,730.0,476624.0,1921667.0,1585,5200
+421,Hakoneyama,Complex,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,2015 CE,35,35,14140.0,53755.0,1543563.0,30282197.0,1438,4718
+422,Hakusan,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,1659 CE,36,36,474.0,807.0,63965.0,5959200.0,2702,8865
+423,Haleakala,Shield,United States,Hawaii and Pacific Ocean,Hawaiian Islands,holocene,1750 CE,20,20,26074.0,26074.0,65398.0,157582.0,3055,10023
+424,Halla,Shield,South Korea,Kamchatka and Mainland Asia,Korea,holocene,1007 CE,33,33,134.0,2653.0,482766.0,543082.0,1919,6296
+425,Hanish,Shield,Yemen,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,13,13,219.0,304.0,811.0,850223.0,422,1385
+427,Hargy,Stratovolcano,Papua New Guinea,Melanesia and Australia,New Britain,holocene,950 CE,5,5,84.0,5093.0,14613.0,85504.0,1148,3766
+428,Harrat Ash Shaam,Volcanic field,Syria,Middle East and Indian Ocean,Middle East (western),holocene,2670 BCE,32,32,276996.0,276996.0,276996.0,276996.0,1100,3609
+429,Harunasan,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,550 CE,36,36,1135.0,36116.0,1185012.0,14076385.0,1449,4754
+430,Hasan Dagi,Stratovolcano,Turkey,Mediterranean and Western Asia,Turkey,holocene,Unknown - Evidence Credible,38,38,235.0,4979.0,174584.0,1362673.0,3253,10673
+433,"Haylan, Jabal",Volcanic field,Yemen,Middle East and Indian Ocean,Middle East (southern),holocene,1200 BCE,15,15,225754.0,225754.0,225754.0,4164209.0,1550,5085
+440,Helgrindur,Pyroclastic cone,Iceland,Iceland and Arctic Ocean,Iceland (western),holocene,Unknown - Evidence Credible,64,64,753.0,753.0,2312.0,20018.0,986,3235
+442,Hengill,Crater rows,Iceland,Iceland and Arctic Ocean,Iceland (southwestern),holocene,150 CE,64,64,5722.0,5722.0,124106.0,204855.0,803,2635
+444,Hertali,Fissure vent,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,9,9,474.0,2243.0,65271.0,2279187.0,900,2953
+445,Hierro,Shield,Spain,Atlantic Ocean,Canary Islands,holocene,2012 CE,27,27,20321.0,20321.0,20321.0,43696.0,1500,4921
+446,Hijiori,Caldera,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,Unknown - Evidence Credible,38,38,83511.0,83511.0,302176.0,4338240.0,552,1811
+447,Hiri,Stratovolcano,Indonesia,Indonesia,Halmahera,holocene,Unknown - Evidence Credible,0,0,5650.0,11454.0,295487.0,550526.0,630,2067
+448,Hitokappu Volcano Group [Bogatyr Ridge],Stratovolcano,Japan,Kuril Islands,Kuril Islands,holocene,Unknown - Evidence Credible,44,44,5.0,130.0,1268.0,5735.0,1610,5282
+449,Hiuchigatake,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,1544 CE,36,36,179.0,720.0,18567.0,7523509.0,2356,7730
+452,Hokkaido-Komagatake,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Hokkaido,holocene,2000 CE,42,42,173.0,23091.0,234213.0,962081.0,1131,3711
+454,Homa Mountain,Complex,Kenya,Africa and Red Sea,Africa (eastern),holocene,Unknown - Evidence Credible,0,0,16124.0,60670.0,628701.0,10069120.0,1751,5745
+456,Honggeertu,Pyroclastic cone,China,Kamchatka and Mainland Asia,China (eastern),holocene,Unknown - Evidence Uncertain,41,41,46721.0,46721.0,112975.0,1830539.0,1605,5266
+459,Hornopiren,Stratovolcano,Chile,South America,Southern Chile and Argentina,holocene,340 CE,41,41,10.0,116.0,5345.0,332598.0,1572,5157
+460,Hromundartindur,Stratovolcano,Iceland,Iceland and Arctic Ocean,Iceland (southwestern),holocene,Unknown - Evidence Uncertain,64,64,5738.0,5738.0,26028.0,201964.0,550,1804
+461,Hualalai,Shield,United States,Hawaii and Pacific Ocean,Hawaiian Islands,holocene,1801 CE,19,19,35906.0,35906.0,46959.0,166240.0,2523,8278
+462,Huambo,Volcanic field,Peru,South America,Peru,holocene,700 BCE,15,15,301.0,1157.0,7271.0,1028814.0,4554,14941
+463,Huanquihue Group,Stratovolcano,Argentina,South America,Central Chile and Argentina,holocene,1750 CE,39,39,22.0,108.0,3515.0,190322.0,2189,7182
+464,Huaynaputina,Stratovolcano,Peru,South America,Peru,holocene,1600 CE,16,16,36.0,210.0,9153.0,1088509.0,4850,15912
+468,"Huila, Nevado del",Stratovolcano,Colombia,South America,Colombia,holocene,2012 CE,2,2,659.0,3501.0,56737.0,4742651.0,5364,17598
+469,Hulubelu,Caldera,Indonesia,Indonesia,Sumatra,holocene,Unknown - Unrest / Holocene,5,5,56894.0,56894.0,99405.0,4261988.0,849,2785
+470,Hululais,Compound,Indonesia,Indonesia,Sumatra,holocene,Unknown - Unrest / Holocene,3,3,9.0,21.0,45038.0,1566370.0,2122,6962
+471,"Humeros, Los",Caldera,Mexico,México and Central America,Mexico,holocene,4470 BCE,19,19,7461.0,27331.0,566898.0,5710131.0,3150,10335
+472,Hunga Tonga-Hunga Ha'apai,Submarine,Tonga,New Zealand to Fiji,Tonga Islands,holocene,2022 CE,20,20,230.0,230.0,532.0,86213.0,114,374
+474,Hydrographers Range,Stratovolcano,Papua New Guinea,Melanesia and Australia,New Guinea and D'Entrecasteaux Islands,holocene,Unknown - Evidence Credible,9,9,585.0,1428.0,38537.0,136167.0,1915,6283
+475,Iamalele,Lava dome,Papua New Guinea,Melanesia and Australia,New Guinea and D'Entrecasteaux Islands,holocene,Unknown - Evidence Credible,9,9,382.0,766.0,8026.0,113875.0,200,656
+476,Ibu,Stratovolcano,Indonesia,Indonesia,Halmahera,holocene,2022 CE,1,1,1560.0,14549.0,64581.0,637988.0,1325,4347
+478,Igwisi Hills,Pyroclastic cone,Tanzania,Africa and Red Sea,Africa (eastern),holocene,10450 BCE,4,4,37034.0,37034.0,105827.0,774440.0,1146,3760
+479,Ijen,Stratovolcano,Indonesia,Indonesia,Java,holocene,1999 CE,8,8,1098.0,5504.0,664199.0,6846855.0,2769,9085
+481,Iliboleng,Stratovolcano,Indonesia,Indonesia,Lesser Sunda Islands,holocene,1993 CE,8,8,30359.0,87503.0,260688.0,757701.0,1659,5443
+483,Ililabalekan,Stratovolcano,Indonesia,Indonesia,Lesser Sunda Islands,holocene,Unknown - Unrest / Holocene,8,8,7747.0,14260.0,123287.0,756090.0,1018,3340
+484,Ilimuda,Stratovolcano,Indonesia,Indonesia,Lesser Sunda Islands,holocene,Unknown - Unrest / Holocene,8,8,32343.0,72197.0,263803.0,903546.0,881,2890
+485,Iliwerung,Complex,Indonesia,Indonesia,Lesser Sunda Islands,holocene,2021 CE,8,8,968.0,4318.0,79569.0,665081.0,583,1913
+486,Illiniza,Stratovolcano,Ecuador,South America,Ecuador,holocene,Unknown - Evidence Credible,0,0,535.0,6034.0,158371.0,3941221.0,5162,16936
+487,Ilopango,Caldera,El Salvador,México and Central America,El Salvador and Honduras,holocene,1880 CE,13,13,2049583.0,2049583.0,2948989.0,6689160.0,450,1476
+488,Imbabura,Compound,Ecuador,South America,Ecuador,holocene,5550 BCE,0,0,538.0,96294.0,477043.0,3245887.0,4609,15121
+490,"Incahuasi, Nevado de",Stratovolcano,Chile,South America,"Northern Chile, Bolivia and Argentina",holocene,Unknown - Evidence Uncertain,27,27,1.0,11.0,534.0,12195.0,6638,21778
+491,Indian Heaven,Shield,United States,Canada and Western USA,USA (Washington),holocene,6250 BCE,45,45,687.0,687.0,6911.0,2019828.0,1806,5925
+492,Infiernillo,Volcanic field,Argentina,South America,Central Chile and Argentina,holocene,6890 BCE,35,35,270.0,270.0,1374.0,40368.0,3007,9865
+494,Inielika,Complex,Indonesia,Indonesia,Lesser Sunda Islands,holocene,2001 CE,8,8,4601.0,27281.0,162299.0,818815.0,1559,5115
+495,Inierie,Stratovolcano,Indonesia,Indonesia,Lesser Sunda Islands,holocene,8050 BCE,8,8,1073.0,7501.0,101938.0,809293.0,2245,7365
+497,Ioto,Caldera,Japan,"Japan, Taiwan, Marianas","Izu, Volcano, and Mariana Islands",holocene,2012 CE,24,24,1179.0,1179.0,1189.0,1370.0,169,554
+498,Ipala,Stratovolcano,Guatemala,México and Central America,Guatemala,holocene,Unknown - Evidence Credible,14,14,3381.0,25003.0,332154.0,6136659.0,1650,5413
+499,Iraya,Stratovolcano,Philippines,Philippines and SE Asia,North of Luzon,holocene,1454 CE,20,20,3087.0,4118.0,8255.0,12873.0,1009,3310
+500,Irazu,Stratovolcano,Costa Rica,México and Central America,Costa Rica,holocene,1994 CE,9,9,1978.0,25442.0,1667528.0,3432860.0,3432,11260
+501,Iriga,Stratovolcano,Philippines,Philippines and SE Asia,Luzon,holocene,Unknown - Evidence Credible,13,13,3712.0,142254.0,1159509.0,4399866.0,1138,3734
+502,Irruputuncu,Stratovolcano,Chile,South America,"Northern Chile, Bolivia and Argentina",holocene,1995 CE,20,20,68.0,239.0,2852.0,16017.0,5163,16939
+504,Isarog,Stratovolcano,Philippines,Philippines and SE Asia,Luzon,holocene,3500 BCE,13,13,146.0,27806.0,1208269.0,4291363.0,1966,6450
+505,Ischia,Complex,Italy,Mediterranean and Western Asia,Italy,holocene,1302 CE,40,40,18669.0,20210.0,383661.0,5729354.0,789,2589
+507,Isluga,Stratovolcano,Chile,South America,"Northern Chile, Bolivia and Argentina",holocene,1913 CE,19,19,1.0,703.0,5961.0,32205.0,5550,18209
+508,Itasy Volcanic Field,Pyroclastic cone,Madagascar,Middle East and Indian Ocean,Indian Ocean (western),holocene,6050 BCE,19,19,129121.0,129121.0,249291.0,4168513.0,1800,5906
+509,"Ithnayn, Harrat",Volcanic field,Saudi Arabia,Middle East and Indian Ocean,Middle East (southern),holocene,Unknown - Evidence Credible,26,26,3112.0,3112.0,3112.0,19734.0,1625,5331
+510,Ivao Group,Pyroclastic cone,Russia,Kuril Islands,Kuril Islands,holocene,Unknown - Evidence Credible,45,45,1.0,10.0,37.0,959.0,1426,4678
+511,Iwakisan,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,1863 CE,40,40,918.0,13229.0,465065.0,1617801.0,1625,5331
+512,Iwatesan,Complex,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,1919 CE,39,39,439.0,18462.0,415920.0,2976795.0,2038,6686
+513,Ixtepeque,Lava dome,Guatemala,México and Central America,Guatemala,holocene,Unknown - Evidence Credible,14,14,131906.0,131906.0,374232.0,8263727.0,1292,4239
+514,Iya,Stratovolcano,Indonesia,Indonesia,Lesser Sunda Islands,holocene,1969 CE,8,8,10837.0,46835.0,62974.0,535387.0,618,2028
+515,Iyang-Argapura,Complex,Indonesia,Indonesia,Java,holocene,Unknown - Evidence Credible,7,7,372.0,11959.0,1601344.0,10538031.0,3088,10131
+516,Izalco,Stratovolcano,El Salvador,México and Central America,El Salvador and Honduras,holocene,1966 CE,13,13,937.0,55665.0,1272308.0,6415818.0,1950,6398
+517,Iztaccihuatl,Stratovolcano,Mexico,México and Central America,Mexico,holocene,Unknown - Evidence Credible,19,19,98.0,1343.0,1036172.0,27276280.0,5230,17159
+518,Izu-Oshima,Stratovolcano,Japan,"Japan, Taiwan, Marianas","Izu, Volcano, and Mariana Islands",holocene,1990 CE,34,34,2381.0,8037.0,8375.0,11837468.0,746,2448
+519,Izu-Tobu,Pyroclastic cone,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,1989 CE,34,34,5886.0,61727.0,447660.0,17928355.0,1406,4613
+520,Izu-Torishima,Stratovolcano,Japan,"Japan, Taiwan, Marianas","Izu, Volcano, and Mariana Islands",holocene,2002 CE,30,30,21.0,21.0,21.0,21.0,394,1293
+522,Jailolo,Stratovolcano,Indonesia,Indonesia,Halmahera,holocene,Unknown - Evidence Credible,1,1,7459.0,21868.0,79855.0,633186.0,993,3258
+524,Jaraguay Volcanic Field,Pyroclastic cone,Mexico,México and Central America,Mexico,holocene,Unknown - Evidence Credible,29,29,1933.0,1933.0,3141.0,21934.0,960,3150
+525,Jatun Mundo Quri Warani,Lava dome,Bolivia,South America,"Northern Chile, Bolivia and Argentina",holocene,Unknown - Evidence Uncertain,19,19,73.0,341.0,6186.0,314777.0,5438,17841
+526,"Jayu Khota, Laguna",Maar,Bolivia,South America,"Northern Chile, Bolivia and Argentina",holocene,Unknown - Evidence Credible,19,19,176.0,856.0,6757.0,70825.0,3650,11975
+528,Jingbo,Volcanic field,China,Kamchatka and Mainland Asia,China (eastern),holocene,520 BCE,44,44,35038.0,35038.0,149132.0,2372857.0,1000,3281
+529,Jocotitlan,Stratovolcano,Mexico,México and Central America,Mexico,holocene,1270 CE,19,19,7220.0,84108.0,630469.0,24986674.0,3900,12795
+532,Jumaytepeque,Stratovolcano,Guatemala,México and Central America,Guatemala,holocene,Unknown - Evidence Uncertain,14,14,11369.0,79805.0,429177.0,7084813.0,1802,5912
+533,Kaba,Stratovolcano,Indonesia,Indonesia,Sumatra,holocene,2000 CE,3,3,278.0,15352.0,333750.0,2608259.0,1940,6365
+538,Kaikohe-Bay of Islands,Volcanic field,New Zealand,New Zealand to Fiji,New Zealand,holocene,400 CE,35,35,13786.0,13786.0,18679.0,133899.0,388,1273
+540,Kalatungan,Stratovolcano,Philippines,Philippines and SE Asia,Mindanao,holocene,Unknown - Evidence Uncertain,7,7,418.0,27005.0,359527.0,5273061.0,2824,9265
+546,Kanlaon,Stratovolcano,Philippines,Philippines and SE Asia,Central Philippines,holocene,2017 CE,10,10,1662.0,40276.0,923257.0,9345000.0,2435,7989
+547,Kao,Stratovolcano,Tonga,New Zealand to Fiji,Tonga Islands,holocene,1847 CE,19,19,236.0,1170.0,1563.0,8602.0,1009,3310
+548,Karaca Dag,Shield,Turkey,Mediterranean and Western Asia,Turkey,holocene,Unknown - Evidence Credible,37,37,2157.0,6718.0,93286.0,2344496.0,1957,6421
+549,Karang,Stratovolcano,Indonesia,Indonesia,Java,holocene,Unknown - Evidence Uncertain,6,6,1006.0,73942.0,1753655.0,23398992.0,1768,5801
+550,Karangetang,Stratovolcano,Indonesia,Indonesia,Sangihe Islands,holocene,2022 CE,2,2,892.0,4478.0,11066.0,65667.0,1797,5896
+551,Karapinar Field,Pyroclastic cone,Turkey,Mediterranean and Western Asia,Turkey,holocene,Unknown - Evidence Credible,37,37,46013.0,46013.0,73698.0,1220961.0,1302,4272
+552,Karisimbi,Stratovolcano,DR Congo,Africa and Red Sea,Africa (central),holocene,8050 BCE,1,1,9657.0,85615.0,1198124.0,10835260.0,4490,14731
+553,Karkar,Stratovolcano,Papua New Guinea,Melanesia and Australia,Northeast of New Guinea,holocene,2014 CE,4,4,5.0,4159.0,20127.0,189841.0,1839,6033
+555,Karthala,Shield,Comoros,Middle East and Indian Ocean,Indian Ocean (western),holocene,2007 CE,11,11,225379.0,225379.0,278330.0,399067.0,2361,7746
+562,Katunga,Tuff cone,Uganda,Africa and Red Sea,Africa (central),holocene,Unknown - Evidence Credible,0,0,9430.0,144953.0,657740.0,5787434.0,1707,5600
+563,Katwe-Kikorongo,Tuff cone,Uganda,Africa and Red Sea,Africa (central),holocene,Unknown - Evidence Credible,0,0,446218.0,446218.0,578503.0,6241035.0,1067,3501
+564,Kavachi,Submarine,Solomon Islands,Melanesia and Australia,Bougainville and Solomon Islands,holocene,2021 CE,8,8,6.0,6.0,802.0,50014.0,-20,-66
+565,Kawi-Butak,Stratovolcano,Indonesia,Indonesia,Java,holocene,Unknown - Evidence Credible,7,7,507.0,127978.0,2927446.0,24141573.0,2651,8698
+567,Kelimutu,Complex,Indonesia,Indonesia,Lesser Sunda Islands,holocene,1968 CE,8,8,746.0,9896.0,118605.0,606946.0,1639,5377
+568,Kelud,Stratovolcano,Indonesia,Indonesia,Java,holocene,2014 CE,7,7,279.0,50901.0,2087876.0,24999627.0,1730,5676
+569,Keluo Group,Pyroclastic cone,China,Kamchatka and Mainland Asia,China (eastern),holocene,Unknown - Evidence Credible,49,49,20323.0,20323.0,72863.0,994984.0,670,2198
+570,Kendang,Stratovolcano,Indonesia,Indonesia,Java,holocene,Unknown - Evidence Credible,7,7,7758.0,89790.0,2601697.0,21174023.0,2594,8510
+572,Kerinci,Stratovolcano,Indonesia,Indonesia,Sumatra,holocene,2021 CE,1,1,304.0,33878.0,264107.0,1437454.0,3800,12467
+573,Ketoi,Stratovolcano,Russia,Kuril Islands,Kuril Islands,holocene,1960 CE,47,47,1.0,10.0,11.0,90.0,1172,3845
+575,Khanuy Gol,Volcanic field,Mongolia,Kamchatka and Mainland Asia,Mongolia,holocene,Unknown - Evidence Credible,48,48,6120.0,6120.0,6120.0,66243.0,1886,6188
+576,Kharimkotan,Stratovolcano,Russia,Kuril Islands,Kuril Islands,holocene,1933 CE,49,49,2.0,2.0,4.0,22.0,1145,3757
+577,"Khaybar, Harrat",Volcanic field,Saudi Arabia,Middle East and Indian Ocean,Middle East (southern),holocene,650 CE,25,25,13619.0,13619.0,13619.0,1415732.0,2093,6867
+581,Kikai,Caldera,Japan,"Japan, Taiwan, Marianas",Ryukyu Islands and Kyushu,holocene,2020 CE,30,30,152.0,152.0,152.0,1002905.0,704,2310
+583,Kilauea,Shield,United States,Hawaii and Pacific Ocean,Hawaiian Islands,holocene,2022 CE,19,19,3122.0,3122.0,8495.0,169550.0,1222,4009
+585,Kirishimayama,Shield,Japan,"Japan, Taiwan, Marianas",Ryukyu Islands and Kyushu,holocene,2018 CE,31,31,647.0,8415.0,407050.0,3972044.0,1700,5577
+586,"Kishb, Harrat",Volcanic field,Saudi Arabia,Middle East and Indian Ocean,Middle East (southern),holocene,Unknown - Evidence Credible,22,22,8028.0,8028.0,8028.0,25048.0,1475,4839
+590,Kita-Ioto,Stratovolcano,Japan,"Japan, Taiwan, Marianas","Izu, Volcano, and Mariana Islands",holocene,1945 CE,25,25,158.0,162.0,162.0,1210.0,792,2598
+592,Klabat,Stratovolcano,Indonesia,Indonesia,Sulawesi,holocene,Unknown - Unrest / Holocene,1,1,1352.0,39935.0,822740.0,1326026.0,1968,6457
+595,Kolokol Group,Stratovolcano,Russia,Kuril Islands,Kuril Islands,holocene,1973 CE,46,46,2.0,2.0,128.0,375.0,1328,4357
+597,Kone,Caldera,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,1820 CE,8,8,7289.0,27271.0,255387.0,4245801.0,1380,4528
+599,Korath Range,Tuff cone,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Uncertain,5,5,24549.0,24549.0,48969.0,270726.0,912,2992
+600,Koro,Pyroclastic cone,Fiji,New Zealand to Fiji,Fiji Islands,holocene,Unknown - Evidence Uncertain,17,17,621.0,1759.0,1761.0,141037.0,522,1713
+601,Korosi,Shield,Kenya,Africa and Red Sea,Africa (eastern),holocene,Unknown - Evidence Credible,0,0,1256.0,9641.0,85474.0,2051312.0,1446,4744
+604,Kostakan,Pyroclastic cone,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,holocene,1350 CE,53,53,13.0,13.0,1352.0,232577.0,1150,3773
+606,Kozushima,Lava dome,Japan,"Japan, Taiwan, Marianas","Izu, Volcano, and Mariana Islands",holocene,838 CE,34,34,2406.0,2406.0,5716.0,442731.0,572,1877
+607,Krafla,Caldera,Iceland,Iceland and Arctic Ocean,Iceland (northeastern),holocene,1984 CE,65,65,384.0,384.0,1258.0,25667.0,800,2625
+608,Krakatau,Caldera,Indonesia,Indonesia,Krakatau,holocene,2021 CE,6,6,7177.0,7177.0,8027.0,6326159.0,155,509
+609,Krasheninnikov,Caldera,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,holocene,1550 CE,54,54,308.0,308.0,814.0,4674.0,1816,5958
+611,Krummel-Garbuna-Welcker,Stratovolcano,Papua New Guinea,Melanesia and Australia,New Britain,holocene,2008 CE,5,5,91.0,8207.0,58235.0,143455.0,564,1850
+612,Krysuvik-Trolladyngja,Crater rows,Iceland,Iceland and Arctic Ocean,Iceland (southwestern),holocene,2021 CE,63,63,29070.0,29070.0,164484.0,195915.0,360,1181
+614,Kuchinoerabujima,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Ryukyu Islands and Kyushu,holocene,2020 CE,30,30,1544.0,1698.0,5348.0,149518.0,657,2156
+615,Kuchinoshima,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Ryukyu Islands and Kyushu,holocene,1190 CE,29,29,93.0,101.0,291.0,11002.0,628,2060
+616,Kueishantao,Stratovolcano,Taiwan,"Japan, Taiwan, Marianas",Taiwan,holocene,1853 CE,24,24,1.0,6523.0,471596.0,10011370.0,361,1184
+617,Kuh-e Nader,Volcanic field,Iran,Middle East and Indian Ocean,Middle East (eastern),holocene,Unknown - Evidence Uncertain,28,28,2979.0,2979.0,17818.0,232462.0,1500,4921
+618,Kujusan,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Ryukyu Islands and Kyushu,holocene,1996 CE,33,33,1667.0,11771.0,181541.0,7815706.0,1791,5876
+620,Kula,Pyroclastic cone,Turkey,Mediterranean and Western Asia,Turkey,holocene,Unknown - Evidence Credible,38,38,66866.0,66866.0,187845.0,2655406.0,750,2461
+621,Kunlun Volcanic Group,Pyroclastic cone,China,Kamchatka and Mainland Asia,China (western),holocene,1951 CE,35,35,1253.0,1253.0,3212.0,22621.0,5808,19055
+623,Kurikomayama,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,1950 CE,38,38,226.0,1081.0,104165.0,4615592.0,1627,5338
+624,Kurile Lake,Caldera,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,holocene,6440 BCE,51,51,23.0,23.0,397.0,4078.0,81,266
+626,Kurub,Shield,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,11,11,8.0,9.0,64938.0,341992.0,625,2051
+627,Kusatsu-Shiranesan,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,2018 CE,36,36,4485.0,14296.0,434049.0,5947593.0,2165,7103
+628,Kussharo,Caldera,Japan,"Japan, Taiwan, Marianas",Hokkaido,holocene,1320 CE,43,43,8331.0,8331.0,26476.0,680109.0,574,1883
+629,Kuttara,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Hokkaido,holocene,1820 CE,42,42,10198.0,34015.0,220509.0,3371955.0,549,1801
+630,Kutum Volcanic Field,Pyroclastic cone,Sudan,Africa and Red Sea,Africa (northern),holocene,Unknown - Evidence Uncertain,14,14,30569.0,30569.0,30569.0,194797.0,1779,5837
+631,Kuwae,Caldera,Vanuatu,Melanesia and Australia,Vanuatu,holocene,1974 CE,16,16,2836.0,2836.0,5725.0,48609.0,-2,-7
+633,Kyatwa,Tuff cone,Uganda,Africa and Red Sea,Africa (central),holocene,Unknown - Evidence Uncertain,0,0,271685.0,271685.0,537190.0,4350194.0,1430,4692
+634,Kyejo,Stratovolcano,Tanzania,Africa and Red Sea,Africa (eastern),holocene,1800 CE,9,9,2259.0,38428.0,378511.0,2263665.0,2176,7139
+635,La Palma,Stratovolcano,Spain,Atlantic Ocean,Canary Islands,holocene,2021 CE,28,28,442.0,18506.0,55922.0,85416.0,2426,7959
+636,Laguna Caldera,Caldera,Philippines,Philippines and SE Asia,Luzon,holocene,Unknown - Unrest / Holocene,14,14,625567.0,625567.0,7073814.0,26270664.0,743,2438
+637,"Lajas, Las",Shield,Nicaragua,México and Central America,Nicaragua,holocene,Unknown - Evidence Uncertain,12,12,1901.0,11384.0,130109.0,3304910.0,926,3038
+638,Lamington,Stratovolcano,Papua New Guinea,Melanesia and Australia,New Guinea and D'Entrecasteaux Islands,holocene,1956 CE,8,8,252.0,2018.0,45841.0,146630.0,1680,5512
+639,Lamongan,Stratovolcano,Indonesia,Indonesia,Java,holocene,1898 CE,7,7,6588.0,66387.0,2193829.0,15322387.0,1641,5384
+640,Langila,Complex,Papua New Guinea,Melanesia and Australia,New Britain,holocene,2022 CE,5,5,213.0,3653.0,11641.0,45698.0,1330,4364
+641,Lanin,Stratovolcano,Chile,South America,Central Chile and Argentina,holocene,560 CE,39,39,13.0,352.0,3007.0,202987.0,3776,12388
+642,Lanzarote,Fissure vent,Spain,Atlantic Ocean,Canary Islands,holocene,1824 CE,29,29,19033.0,80515.0,164123.0,225373.0,670,2198
+646,Late,Stratovolcano,Tonga,New Zealand to Fiji,Tonga Islands,holocene,1854 CE,18,18,158.0,158.0,158.0,17190.0,540,1772
+647,Lateiki,Submarine,Tonga,New Zealand to Fiji,Tonga Islands,holocene,2019 CE,19,19,18.0,18.0,18.0,7907.0,43,141
+649,Lawu,Stratovolcano,Indonesia,Indonesia,Java,holocene,1885 CE,7,7,2171.0,68175.0,2344575.0,24931156.0,3265,10712
+650,"Lengai, Ol Doinyo",Stratovolcano,Tanzania,Africa and Red Sea,Africa (eastern),holocene,2022 CE,2,2,186.0,1855.0,18074.0,545305.0,2962,9718
+651,Leonard Range,Stratovolcano,Philippines,Philippines and SE Asia,Mindanao,holocene,120 CE,7,7,908.0,3682.0,451047.0,4321874.0,1080,3543
+652,Leroboleng,Complex,Indonesia,Indonesia,Lesser Sunda Islands,holocene,2003 CE,8,8,9164.0,26794.0,358627.0,896194.0,1095,3593
+655,Lewotobi,Stratovolcano,Indonesia,Indonesia,Lesser Sunda Islands,holocene,2003 CE,8,8,18686.0,59084.0,284976.0,906184.0,1703,5587
+656,Lewotolok,Stratovolcano,Indonesia,Indonesia,Lesser Sunda Islands,holocene,2022 CE,8,8,4390.0,10032.0,159023.0,695083.0,1431,4695
+657,Liado Hayk,Maar,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Uncertain,9,9,22847.0,22847.0,54244.0,2688559.0,878,2881
+658,Liamuiga,Stratovolcano,Saint Kitts and Nevis,West Indies,West Indies,holocene,160 CE,17,17,2009.0,7285.0,35138.0,141136.0,1156,3793
+659,Licancabur,Stratovolcano,Chile,South America,"Northern Chile, Bolivia and Argentina",holocene,Unknown - Evidence Credible,22,22,10.0,86.0,1650.0,12389.0,5916,19409
+660,Licto,Pyroclastic cone,Ecuador,South America,Ecuador,holocene,Unknown - Evidence Uncertain,1,1,250144.0,250144.0,333276.0,1806438.0,3336,10945
+661,Lihir,Compound,Papua New Guinea,Melanesia and Australia,New Ireland,holocene,Unknown - Evidence Credible,3,3,959.0,2592.0,3562.0,32340.0,700,2297
+662,Lipari,Stratovolcano,Italy,Mediterranean and Western Asia,Italy,holocene,1230 CE,38,38,26049.0,28925.0,36059.0,1564043.0,590,1936
+664,Ljosufjoll,Fissure vent,Iceland,Iceland and Arctic Ocean,Iceland (western),holocene,960 CE,64,64,713.0,713.0,1511.0,192797.0,1063,3488
+665,Llaima,Stratovolcano,Chile,South America,Central Chile and Argentina,holocene,2009 CE,38,38,86.0,811.0,18568.0,630458.0,3125,10253
+668,Lokon-Empung,Stratovolcano,Indonesia,Indonesia,Sulawesi,holocene,2015 CE,1,1,12183.0,75684.0,942160.0,1583346.0,1580,5184
+669,Lolo,Stratovolcano,Papua New Guinea,Melanesia and Australia,New Britain,holocene,Unknown - Evidence Uncertain,5,5,5176.0,13925.0,35526.0,144334.0,796,2612
+670,Lolobau,Caldera,Papua New Guinea,Melanesia and Australia,New Britain,holocene,1912 CE,4,4,7243.0,7243.0,9659.0,62340.0,858,2815
+671,Loloru,Pyroclastic shield,Papua New Guinea,Melanesia and Australia,Bougainville and Solomon Islands,holocene,1050 BCE,6,6,1.0,173.0,26075.0,97088.0,1887,6191
+672,Long Island,Complex,Papua New Guinea,Melanesia and Australia,Northeast of New Guinea,holocene,1993 CE,5,5,172.0,2023.0,4017.0,78803.0,1280,4199
+673,"Longavi, Nevado de",Stratovolcano,Chile,South America,Central Chile and Argentina,holocene,4890 BCE,36,36,17.0,141.0,3901.0,753797.0,3242,10636
+674,Longgang Group,Pyroclastic cone,China,Kamchatka and Mainland Asia,China (eastern),holocene,350 CE,42,42,34708.0,34708.0,197016.0,4407575.0,1000,3281
+675,Longonot,Stratovolcano,Kenya,Africa and Red Sea,Africa (eastern),holocene,1863 CE,0,0,809.0,17893.0,410677.0,8750154.0,2776,9108
+676,Lonquimay,Stratovolcano,Chile,South America,Central Chile and Argentina,holocene,1990 CE,38,38,96.0,540.0,13635.0,504320.0,2832,9291
+677,Lopevi,Stratovolcano,Vanuatu,Melanesia and Australia,Vanuatu,holocene,2007 CE,16,16,690.0,793.0,7942.0,50310.0,1413,4636
+678,Lubukraya,Stratovolcano,Indonesia,Indonesia,Sumatra,holocene,Unknown - Evidence Uncertain,1,1,349.0,6931.0,445954.0,2208734.0,1862,6109
+679,"Lunayyir, Harrat",Volcanic field,Saudi Arabia,Middle East and Indian Ocean,Middle East (southern),holocene,1000 CE,25,25,234.0,234.0,234.0,61662.0,1370,4495
+680,Ly Son Group,Volcanic field,Vietnam,Philippines and SE Asia,Southeast Asia,holocene,Unknown - Evidence Credible,15,15,700.0,700.0,29181.0,2303467.0,157,515
+681,Ma Alalta,Stratovolcano,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,13,13,3925.0,25246.0,66381.0,1332833.0,1745,5725
+685,Machin,Stratovolcano,Colombia,South America,Colombia,holocene,1180 CE,4,4,2150.0,15212.0,570836.0,4165071.0,2749,9019
+686,Madeira,Shield,Portugal,Atlantic Ocean,Azores,holocene,4500 BCE,32,32,209816.0,209816.0,215730.0,220977.0,1862,6109
+687,Madilogo,Pyroclastic cone,Papua New Guinea,Melanesia and Australia,New Guinea and D'Entrecasteaux Islands,holocene,Unknown - Evidence Credible,9,9,146.0,670.0,10015.0,486684.0,850,2789
+689,Mahagnao,Stratovolcano,Philippines,Philippines and SE Asia,Central Philippines,holocene,Unknown - Unrest / Holocene,10,10,11.0,4338.0,66949.0,827590.0,860,2822
+690,Mahawu,Stratovolcano,Indonesia,Indonesia,Sulawesi,holocene,1977 CE,1,1,18618.0,111852.0,878193.0,1503109.0,1299,4262
+691,Maipo,Caldera,Chile,South America,Central Chile and Argentina,holocene,1912 CE,34,34,3916.0,3916.0,8221.0,1684481.0,5323,17464
+692,Makaturing,Stratovolcano,Philippines,Philippines and SE Asia,Mindanao,holocene,1882 CE,7,7,1501.0,9752.0,418007.0,6142586.0,1818,5965
+693,Makian,Stratovolcano,Indonesia,Indonesia,Halmahera,holocene,1988 CE,0,0,4986.0,8466.0,21360.0,441768.0,1357,4452
+695,"Malinche, La",Stratovolcano,Mexico,México and Central America,Mexico,holocene,1170 BCE,19,19,46.0,2769.0,2324232.0,8225539.0,4461,14636
+696,Malindang,Stratovolcano,Philippines,Philippines and SE Asia,Mindanao,holocene,Unknown - Evidence Credible,8,8,317.0,13659.0,731423.0,4044299.0,2404,7887
+697,Malindig,Stratovolcano,Philippines,Philippines and SE Asia,Luzon,holocene,Unknown - Evidence Credible,13,13,8066.0,21486.0,217286.0,2639049.0,1157,3796
+698,Malintang,Stratovolcano,Indonesia,Indonesia,Sumatra,holocene,Unknown - Evidence Credible,0,0,56.0,535.0,169047.0,1602138.0,1983,6506
+699,Mallahle,Stratovolcano,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Uncertain,13,13,912.0,1454.0,3830.0,30930.0,1875,6152
+700,Maly Semyachik,Caldera,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,holocene,1952 CE,54,54,98.0,98.0,497.0,10182.0,1527,5010
+701,Mammoth Mountain,Lava dome,United States,Canada and Western USA,USA (California),holocene,1260 CE,37,37,2220.0,6242.0,7745.0,77851.0,3369,11053
+702,Managlase Plateau,Volcanic field,Papua New Guinea,Melanesia and Australia,New Guinea and D'Entrecasteaux Islands,holocene,Unknown - Evidence Credible,9,9,5732.0,5732.0,14700.0,145917.0,1342,4403
+703,Manam,Stratovolcano,Papua New Guinea,Melanesia and Australia,Northeast of New Guinea,holocene,2022 CE,4,4,1106.0,2553.0,24364.0,180402.0,1807,5928
+704,Manda Gargori,Fissure vent,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,11,11,284.0,1127.0,74334.0,310427.0,700,2297
+705,Manda Hararo,Shield,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,2009 CE,12,12,191.0,857.0,7455.0,419204.0,600,1969
+706,Manda-Inakir,Fissure vent,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,1928 CE,12,12,116.0,1130.0,15991.0,223924.0,600,1969
+707,Mandalagan,Complex,Philippines,Philippines and SE Asia,Central Philippines,holocene,Unknown - Unrest / Holocene,10,10,563.0,6491.0,765974.0,9390672.0,1885,6184
+709,Manzaz Volcanic Field,Pyroclastic cone,Algeria,Africa and Red Sea,Africa (northern),holocene,Unknown - Evidence Credible,23,23,1196.0,1196.0,1326.0,5278.0,1672,5486
+710,Marapi,Complex,Indonesia,Indonesia,Sumatra,holocene,2018 CE,0,0,706.0,57453.0,818039.0,4059773.0,2885,9465
+711,Marchena,Shield,Ecuador,South America,Galapagos Islands,holocene,1991 CE,0,0,785.0,785.0,785.0,3001.0,343,1125
+712,Mare,Stratovolcano,Indonesia,Indonesia,Halmahera,holocene,Unknown - Evidence Credible,0,0,889.0,20821.0,300717.0,498716.0,308,1010
+713,"Marha, Jabal el-",Tuff cone,Yemen,Middle East and Indian Ocean,Middle East (southern),holocene,Unknown - Evidence Uncertain,15,15,7617.0,215379.0,2502680.0,6484784.0,2506,8222
+715,"Marinaqui, Laguna",Pyroclastic cone,Chile,South America,Central Chile and Argentina,holocene,Unknown - Evidence Credible,38,38,95.0,314.0,4640.0,85612.0,2108,6916
+717,Mariveles,Stratovolcano,Philippines,Philippines and SE Asia,Luzon,holocene,2050 BCE,14,14,903.0,48079.0,455154.0,25981912.0,1388,4554
+718,Markagunt Plateau,Volcanic field,United States,Canada and Western USA,USA (Utah),holocene,1050 CE,37,37,970.0,970.0,1887.0,186184.0,2840,9318
+719,"Marra, Jebel",Volcanic field,Sudan,Africa and Red Sea,Africa (northern),holocene,2000 BCE,12,12,638.0,8692.0,120061.0,983802.0,3042,9980
+720,Marsabit,Shield,Kenya,Africa and Red Sea,Africa (eastern),holocene,Unknown - Evidence Uncertain,2,2,16804.0,22677.0,49742.0,111322.0,1707,5600
+724,Masaraga,Stratovolcano,Philippines,Philippines and SE Asia,Luzon,holocene,Unknown - Evidence Credible,13,13,14744.0,141095.0,1390760.0,4193903.0,1328,4357
+725,Masaya,Caldera,Nicaragua,México and Central America,Nicaragua,holocene,2022 CE,11,11,989888.0,989888.0,1914707.0,2926954.0,594,1949
+726,Mascota Volcanic Field,Pyroclastic cone,Mexico,México and Central America,Mexico,holocene,Unknown - Evidence Credible,20,20,16293.0,16293.0,31760.0,1083467.0,2525,8284
+727,Mashu,Caldera,Japan,"Japan, Taiwan, Marianas",Hokkaido,holocene,1080 CE,43,43,9794.0,9794.0,25627.0,632919.0,857,2812
+728,Mat Ala,Shield,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,13,13,45.0,92.0,6756.0,83190.0,493,1617
+729,Matthew Island,Stratovolcano,France,Melanesia and Australia,Pacific Ocean (southwestern),holocene,1956 CE,22,22,1.0,1.0,1.0,1.0,177,581
+730,Matutum,Stratovolcano,Philippines,Philippines and SE Asia,Mindanao,holocene,1290 CE,6,6,855.0,10431.0,822372.0,5316209.0,2286,7500
+732,"Maule, Laguna del",Caldera,Chile,South America,Central Chile and Argentina,holocene,50 BCE,36,36,1045.0,1045.0,1521.0,169334.0,2162,7093
+733,Mauna Kea,Shield,United States,Hawaii and Pacific Ocean,Hawaiian Islands,holocene,2460 BCE,19,19,126.0,126.0,9950.0,166888.0,4205,13796
+734,Mauna Loa,Shield,United States,Hawaii and Pacific Ocean,Hawaiian Islands,holocene,1984 CE,19,19,45.0,45.0,1906.0,175315.0,4170,13681
+735,Mayon,Stratovolcano,Philippines,Philippines and SE Asia,Luzon,holocene,2019 CE,13,13,4350.0,248448.0,1166441.0,4142375.0,2462,8077
+736,Mayor Island,Shield,New Zealand,New Zealand to Fiji,New Zealand,holocene,5060 BCE,37,37,105.0,105.0,141.0,355290.0,355,1165
+739,Meager,Complex,Canada,Canada and Western USA,Canada,holocene,410 BCE,50,50,1.0,111.0,307.0,17662.0,2680,8793
+742,Megata,Maar,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,2050 BCE,39,39,1854.0,3577.0,81218.0,1205440.0,291,955
+743,Mehetia,Stratovolcano,France,Hawaii and Pacific Ocean,Pacific Ocean (central),holocene,Unknown - Evidence Credible,17,17,114.0,114.0,114.0,114.0,389,1276
+744,Meidob Volcanic Field,Pyroclastic cone,Sudan,Africa and Red Sea,Africa (northern),holocene,2950 BCE,15,15,5140.0,5140.0,5140.0,24193.0,2000,6562
+748,Menengai,Shield,Kenya,Africa and Red Sea,Africa (eastern),holocene,6050 BCE,0,0,2192.0,204608.0,886293.0,4259089.0,2278,7474
+750,Merapi,Stratovolcano,Indonesia,Indonesia,Java,holocene,2022 CE,7,7,49205.0,185849.0,4348473.0,24728414.0,2910,9547
+751,Merbabu,Stratovolcano,Indonesia,Indonesia,Java,holocene,1797 CE,7,7,19996.0,249747.0,3019783.0,25096234.0,3118,10230
+752,Mere Lava,Stratovolcano,Vanuatu,Melanesia and Australia,Vanuatu,holocene,Unknown - Evidence Credible,14,14,72.0,73.0,73.0,18522.0,1028,3373
+754,Methana,Lava dome,Greece,Mediterranean and Western Asia,Greece,holocene,258 BCE,37,37,152.0,1683.0,48917.0,4220783.0,760,2493
+757,Michoacan-Guanajuato,Pyroclastic cone,Mexico,México and Central America,Mexico,holocene,1952 CE,19,19,5783287.0,5783287.0,5783287.0,5783287.0,3860,12664
+758,Midagahara,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,1839 CE,36,36,401.0,521.0,143935.0,4455560.0,2621,8599
+759,Mikurajima,Stratovolcano,Japan,"Japan, Taiwan, Marianas","Izu, Volcano, and Mariana Islands",holocene,4100 BCE,33,33,293.0,293.0,4551.0,25466.0,851,2792
+760,Milbanke Sound Group,Pyroclastic cone,Canada,Canada and Western USA,Canada,holocene,Unknown - Evidence Credible,52,52,574.0,574.0,574.0,2792.0,335,1099
+761,Milna,Stratovolcano,Russia,Kuril Islands,Kuril Islands,holocene,1914 CE,46,46,43.0,47.0,49.0,188.0,1504,4934
+762,Milos,Stratovolcano,Greece,Mediterranean and Western Asia,Greece,holocene,140 CE,36,36,6688.0,7389.0,9851.0,73100.0,751,2464
+764,Miniques,Stratovolcano,Chile,South America,"Northern Chile, Bolivia and Argentina",holocene,Unknown - Evidence Uncertain,23,23,3.0,39.0,505.0,5618.0,5910,19390
+765,Miravalles,Stratovolcano,Costa Rica,México and Central America,Costa Rica,holocene,1946 CE,10,10,79.0,7492.0,61875.0,757945.0,2028,6654
+766,"Misti, El",Stratovolcano,Peru,South America,Peru,holocene,1985 CE,16,16,82.0,1507.0,918280.0,1052408.0,5822,19101
+767,Miyakejima,Stratovolcano,Japan,"Japan, Taiwan, Marianas","Izu, Volcano, and Mariana Islands",holocene,2010 CE,34,34,1848.0,3189.0,3474.0,95663.0,775,2543
+768,Mocho-Choshuenco,Stratovolcano,Chile,South America,Central Chile and Argentina,holocene,1937 CE,39,39,81.0,789.0,16633.0,401631.0,2422,7946
+771,Mojanda,Stratovolcano,Ecuador,South America,Ecuador,holocene,Unknown - Evidence Uncertain,0,0,173.0,15510.0,480382.0,3071030.0,4263,13986
+773,Mombacho,Stratovolcano,Nicaragua,México and Central America,Nicaragua,holocene,Unknown - Unrest / Holocene,11,11,656.0,56671.0,621451.0,2709304.0,1344,4409
+774,Momotombo,Stratovolcano,Nicaragua,México and Central America,Nicaragua,holocene,2016 CE,12,12,100.0,1851.0,98583.0,3569021.0,1270,4167
+776,Mono Lake Volcanic Field,Pyroclastic cone,United States,Canada and Western USA,USA (California),holocene,1790 CE,38,38,1066.0,1066.0,1491.0,65028.0,2121,6959
+777,Mono-Inyo Craters,Lava dome,United States,Canada and Western USA,USA (California),holocene,1380 CE,37,37,558.0,7393.0,9048.0,82160.0,2796,9173
+781,Moti,Stratovolcano,Indonesia,Indonesia,Halmahera,holocene,Unknown - Evidence Credible,0,0,3190.0,5051.0,89568.0,462393.0,927,3041
+782,Motlav,Stratovolcano,Vanuatu,Melanesia and Australia,Vanuatu,holocene,Unknown - Evidence Credible,13,13,251.0,292.0,3768.0,7490.0,411,1348
+785,Mousa Alli,Stratovolcano,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,12,12,132.0,1148.0,11607.0,201977.0,1993,6539
+786,Moyorodake [Medvezhia],Stratovolcano,Japan,Kuril Islands,Kuril Islands,holocene,1999 CE,45,45,11.0,42.0,600.0,4333.0,1124,3688
+787,Moyuta,Stratovolcano,Guatemala,México and Central America,Guatemala,holocene,Unknown - Evidence Credible,14,14,3457.0,15469.0,394687.0,7064437.0,1662,5453
+788,Muhavura,Stratovolcano,Uganda,Africa and Red Sea,Africa (central),holocene,Unknown - Evidence Credible,1,1,10680.0,197162.0,1189226.0,10833809.0,4103,13461
+789,Mundua,Complex,Papua New Guinea,Melanesia and Australia,New Britain,holocene,Unknown - Evidence Credible,4,4,489.0,501.0,6406.0,9419.0,171,561
+790,Muria,Stratovolcano,Indonesia,Indonesia,Java,holocene,160 BCE,6,6,212.0,7653.0,1587867.0,13061031.0,1625,5331
+791,Musuan,Lava dome,Philippines,Philippines and SE Asia,Mindanao,holocene,Unknown - Evidence Uncertain,7,7,67591.0,134114.0,517243.0,6198562.0,646,2119
+794,Myokosan,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,750 BCE,36,36,1563.0,11033.0,561142.0,4118863.0,2454,8051
+795,NE Shepherd Islands,Stratovolcano,Vanuatu,Melanesia and Australia,Vanuatu,holocene,Unknown - Evidence Uncertain,16,16,1101.0,1972.0,6407.0,69711.0,216,709
+798,Nabro,Stratovolcano,Eritrea,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,2012 CE,13,13,24.0,145.0,2713.0,26881.0,2218,7277
+799,Nabukelevu,Lava dome,Fiji,New Zealand to Fiji,Fiji Islands,holocene,1660 CE,19,19,269.0,1379.0,4523.0,21730.0,805,2641
+800,Nakanoshima,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Ryukyu Islands and Kyushu,holocene,1914 CE,29,29,137.0,170.0,364.0,14037.0,979,3212
+801,Namarunu,Shield,Kenya,Africa and Red Sea,Africa (eastern),holocene,6550 BCE,1,1,47.0,537.0,7073.0,186674.0,817,2680
+802,Nantaisan,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,9540 BCE,36,36,781.0,12768.0,128931.0,11079746.0,2486,8156
+803,Naolinco Volcanic Field,Pyroclastic cone,Mexico,México and Central America,Mexico,holocene,1200 BCE,19,19,108824.0,108824.0,739767.0,4184323.0,2000,6562
+805,Naruko,Caldera,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,837 CE,38,38,54771.0,54771.0,210262.0,4417058.0,470,1542
+806,Nasudake,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,1963 CE,37,37,639.0,5802.0,298717.0,5725203.0,1915,6283
+807,Natib,Stratovolcano,Philippines,Philippines and SE Asia,Luzon,holocene,Unknown - Evidence Uncertain,14,14,450.0,4977.0,1050509.0,25524080.0,1253,4111
+808,Nazko,Pyroclastic cone,Canada,Canada and Western USA,Canada,holocene,5220 BCE,52,52,4.0,8.0,674.0,25892.0,1238,4062
+809,"Negra, Sierra",Shield,Ecuador,South America,Galapagos Islands,holocene,2018 CE,0,0,408.0,408.0,983.0,9884.0,1124,3688
+810,"Negrillar, La",Pyroclastic cone,Chile,South America,"Northern Chile, Bolivia and Argentina",holocene,Unknown - Evidence Uncertain,24,24,19.0,104.0,791.0,9301.0,4220,13845
+811,"Negro, Cerro",Pyroclastic cone,Nicaragua,México and Central America,Nicaragua,holocene,1999 CE,12,12,1690.0,10243.0,296320.0,3540933.0,728,2388
+812,Nejapa-Miraflores,Fissure vent,Nicaragua,México and Central America,Nicaragua,holocene,1060 CE,12,12,295906.0,870837.0,1610426.0,3062823.0,360,1181
+813,Nemo Peak,Caldera,Russia,Kuril Islands,Kuril Islands,holocene,1938 CE,49,49,15.0,15.0,46.0,582.0,1018,3340
+814,Nemrut Dagi,Stratovolcano,Turkey,Mediterranean and Western Asia,Turkey,holocene,1650 CE,38,38,608.0,7399.0,230531.0,1618263.0,2948,9672
+815,"Nevada, Sierra",Complex,Chile,South America,"Northern Chile, Bolivia and Argentina",holocene,Unknown - Evidence Credible,26,26,27.0,27.0,232.0,7638.0,6173,20253
+816,Nevis Peak,Stratovolcano,Saint Kitts and Nevis,West Indies,West Indies,holocene,Unknown - Evidence Uncertain,17,17,5363.0,9541.0,35673.0,132863.0,985,3232
+818,Newer Volcanics Province,Shield,Australia,Melanesia and Australia,Australia,holocene,2900 BCE,37,37,610361.0,610361.0,610361.0,610361.0,1011,3317
+819,Ngozi,Caldera,Tanzania,Africa and Red Sea,Africa (eastern),holocene,1450 CE,8,8,456466.0,456466.0,604376.0,2195623.0,2614,8576
+820,"Nicholson, Cerro",Pyroclastic cone,Peru,South America,Peru,holocene,Unknown - Evidence Credible,16,16,223.0,824.0,815351.0,1074503.0,2525,8284
+822,Niigata-Yakeyama,Lava dome,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,1998 CE,36,36,73.0,610.0,226866.0,3920252.0,2400,7874
+823,Niijima,Lava dome,Japan,"Japan, Taiwan, Marianas","Izu, Volcano, and Mariana Islands",holocene,886 CE,34,34,3060.0,3349.0,6139.0,1347661.0,432,1417
+825,Nikko-Shiranesan,Shield,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,1952 CE,36,36,513.0,2502.0,79844.0,9303980.0,2578,8458
+826,Nila,Stratovolcano,Indonesia,Indonesia,Banda Sea,holocene,1968 CE,6,6,200.0,200.0,200.0,1382.0,781,2562
+827,Niseko,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Hokkaido,holocene,4900 BCE,42,42,778.0,9981.0,75171.0,2967982.0,1308,4291
+829,Nisyros,Stratovolcano,Greece,Mediterranean and Western Asia,Greece,holocene,1888 CE,36,36,672.0,680.0,14285.0,461031.0,698,2290
+830,Niuafo'ou,Shield,Tonga,New Zealand to Fiji,Tonga Islands,holocene,1985 CE,15,15,118.0,155.0,155.0,155.0,260,853
+832,Norikuradake,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,50 BCE,36,36,250.0,1616.0,109638.0,5057979.0,3026,9928
+834,North Island,Tuff cone,Kenya,Africa and Red Sea,Africa (eastern),holocene,Unknown - Evidence Credible,4,4,21.0,21.0,7326.0,180900.0,490,1608
+835,North Vate,Stratovolcano,Vanuatu,Melanesia and Australia,Vanuatu,holocene,Unknown - Evidence Credible,17,17,3327.0,6497.0,26614.0,61663.0,594,1949
+841,Nosy-Be,Pyroclastic cone,Madagascar,Middle East and Indian Ocean,Indian Ocean (western),holocene,Unknown - Evidence Credible,13,13,14015.0,14015.0,61656.0,396548.0,214,702
+843,Numazawa,Shield,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,3400 BCE,37,37,990.0,4082.0,110303.0,4383246.0,835,2740
+844,Nyambeni Hills,Shield,Kenya,Africa and Red Sea,Africa (eastern),holocene,Unknown - Evidence Credible,0,0,13389.0,107199.0,768936.0,2781323.0,750,2461
+845,Nyamulagira,Shield,DR Congo,Africa and Red Sea,Africa (central),holocene,2022 CE,1,1,3751.0,27027.0,711356.0,8333476.0,3058,10033
+846,Nyiragongo,Stratovolcano,DR Congo,Africa and Red Sea,Africa (central),holocene,2022 CE,1,1,2416.0,31145.0,1006436.0,9087529.0,3470,11385
+848,O'a Caldera,Caldera,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,7,7,148588.0,148588.0,477361.0,8808566.0,2075,6808
+851,Ofu-Olosega,Shield,United States,New Zealand to Fiji,Samoan and Wallis Islands,holocene,1866 CE,14,14,220.0,384.0,1387.0,1387.0,639,2096
+853,Okataina,Lava dome,New Zealand,New Zealand to Fiji,New Zealand,holocene,1981 CE,38,38,18.0,579.0,79591.0,362413.0,1111,3645
+854,Oki-Dogo,Shield,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,Unknown - Evidence Credible,36,36,6391.0,12388.0,22076.0,691492.0,151,495
+856,Oku Volcanic Field,Stratovolcano,Cameroon,Africa and Red Sea,Africa (western),holocene,Unknown - Evidence Uncertain,6,6,131944.0,131944.0,399741.0,3698980.0,3011,9879
+857,Ol Kokwe,Shield,Kenya,Africa and Red Sea,Africa (eastern),holocene,Unknown - Evidence Credible,0,0,151.0,8229.0,115689.0,2700016.0,1130,3707
+858,Olca-Paruma,Stratovolcano,Chile,South America,"Northern Chile, Bolivia and Argentina",holocene,Unknown - Eruption Observed,20,20,20.0,225.0,2318.0,16180.0,5705,18717
+859,Olkaria,Pyroclastic cone,Kenya,Africa and Red Sea,Africa (eastern),holocene,1770 CE,0,0,59747.0,59747.0,208003.0,8437829.0,2434,7986
+860,Olkoviy Volcanic Group,Volcanic field,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,holocene,Unknown - Evidence Credible,52,52,34.0,34.0,46.0,3780.0,681,2234
+861,Olot Volcanic Field,Pyroclastic cone,Spain,Mediterranean and Western Asia,Western Europe,holocene,Unknown - Evidence Credible,42,42,33377.0,33377.0,101153.0,5238117.0,893,2930
+862,Omanago Group,Lava dome,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,3050 BCE,36,36,698.0,16316.0,113236.0,10276159.0,2341,7680
+863,Ontakesan,Complex,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,2014 CE,35,35,176.0,2098.0,86634.0,8307889.0,3067,10062
+864,Opala,Caldera,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,holocene,1776 CE,52,52,22.0,22.0,50.0,58949.0,2439,8002
+866,"Orizaba, Pico de",Stratovolcano,Mexico,México and Central America,Mexico,holocene,1846 CE,19,19,413.0,4469.0,759747.0,5962920.0,5564,18255
+867,Orosi,Stratovolcano,Costa Rica,México and Central America,Costa Rica,holocene,Unknown - Evidence Uncertain,10,10,43.0,1024.0,31463.0,588207.0,1659,5443
+868,Oshima-Oshima,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Hokkaido,holocene,1790 CE,41,41,6.0,6.0,6.0,88023.0,732,2402
+869,Osorezan,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,1787 CE,41,41,11577.0,42590.0,80028.0,1714622.0,878,2881
+870,Osorno,Stratovolcano,Chile,South America,Southern Chile and Argentina,holocene,1869 CE,41,41,88.0,674.0,11964.0,655492.0,2659,8724
+872,Pacaya,Complex,Guatemala,México and Central America,Guatemala,holocene,2021 CE,14,14,4250.0,53579.0,2454482.0,7033094.0,2569,8428
+874,Paka,Shield,Kenya,Africa and Red Sea,Africa (eastern),holocene,7550 BCE,0,0,468.0,4354.0,62835.0,1256175.0,1697,5568
+875,Pali-Aike Volcanic Field,Pyroclastic cone,Chile,South America,Southern Chile and Argentina,holocene,5550 BCE,52,52,288.0,288.0,651.0,95765.0,282,925
+877,Palomo,Stratovolcano,Chile,South America,Central Chile and Argentina,holocene,Unknown - Evidence Credible,34,34,162.0,325.0,4732.0,965894.0,4860,15945
+878,Paluweh,Stratovolcano,Indonesia,Indonesia,Lesser Sunda Islands,holocene,2013 CE,8,8,446.0,446.0,5284.0,548803.0,875,2871
+879,Pampa Luxsar,Volcanic field,Bolivia,South America,"Northern Chile, Bolivia and Argentina",holocene,Unknown - Evidence Uncertain,20,20,419.0,419.0,1391.0,16459.0,5543,18186
+880,Panarea,Stratovolcano,Italy,Mediterranean and Western Asia,Italy,holocene,Unknown - Evidence Uncertain,38,38,2127.0,2127.0,42429.0,1319585.0,399,1309
+881,Pantelleria,Shield,Italy,Mediterranean and Western Asia,Italy,holocene,1891 CE,36,36,6561.0,10985.0,12403.0,142817.0,836,2743
+882,Papandayan,Stratovolcano,Indonesia,Indonesia,Java,holocene,2002 CE,7,7,6835.0,163468.0,1637971.0,19312972.0,2665,8743
+883,Papayo,Lava dome,Mexico,México and Central America,Mexico,holocene,Unknown - Evidence Credible,19,19,377.0,2081.0,2207308.0,28677002.0,3600,11811
+884,Parinacota,Stratovolcano,Chile,South America,"Northern Chile, Bolivia and Argentina",holocene,290 CE,18,18,18.0,123.0,3442.0,63717.0,6336,20787
+885,Parker,Stratovolcano,Philippines,Philippines and SE Asia,Mindanao,holocene,1641 CE,6,6,331.0,2963.0,484481.0,3532683.0,1824,5984
+886,Patah,Stratovolcano,Indonesia,Indonesia,Sumatra,holocene,Unknown - Unrest / Holocene,4,4,47.0,214.0,64024.0,1302916.0,2836,9304
+887,Patoc,Stratovolcano,Philippines,Philippines and SE Asia,Luzon,holocene,Unknown - Unrest / Holocene,17,17,3621.0,24203.0,89470.0,5187827.0,1865,6119
+888,Patuha,Stratovolcano,Indonesia,Indonesia,Java,holocene,Unknown - Evidence Credible,7,7,12576.0,76063.0,1516827.0,23632738.0,2422,7946
+894,Pelee,Stratovolcano,France,West Indies,West Indies,holocene,1932 CE,14,14,251.0,5025.0,382633.0,609576.0,1394,4573
+895,Penanggungan,Stratovolcano,Indonesia,Indonesia,Java,holocene,Unknown - Evidence Credible,7,7,19435.0,416275.0,4605710.0,25773159.0,1631,5351
+897,Perbakti-Gagak,Stratovolcano,Indonesia,Indonesia,Java,holocene,1939 CE,6,6,1490.0,28784.0,2333456.0,36630568.0,1726,5663
+898,Peuet Sague,Complex,Indonesia,Indonesia,Sumatra,holocene,2000 CE,4,4,53.0,144.0,16227.0,1862448.0,2785,9137
+899,Pico,Stratovolcano,Portugal,Atlantic Ocean,Azores,holocene,1720 CE,38,38,304.0,5944.0,31521.0,56736.0,2351,7713
+901,Picos Fissural Volcanic System,Pyroclastic cone,Portugal,Atlantic Ocean,Azores,holocene,1652 CE,37,37,115732.0,115732.0,123990.0,139730.0,350,1148
+903,"Pilas, Las",Complex,Nicaragua,México and Central America,Nicaragua,holocene,1954 CE,12,12,182.0,8324.0,299481.0,3351820.0,1088,3570
+904,Pinacate,Pyroclastic cone,Mexico,México and Central America,Mexico,holocene,Unknown - Evidence Credible,31,31,92.0,92.0,408.0,62753.0,1183,3881
+905,Pinatubo,Stratovolcano,Philippines,Philippines and SE Asia,Luzon,holocene,1993 CE,15,15,725.0,3808.0,1148684.0,21875048.0,1486,4875
+906,Pinta,Shield,Ecuador,South America,Galapagos Islands,holocene,1928 CE,0,0,427.0,427.0,427.0,1626.0,780,2559
+907,Planchon-Peteroa,Stratovolcano,Chile,South America,Central Chile and Argentina,holocene,2019 CE,35,35,6.0,48.0,1345.0,634959.0,3977,13048
+908,"Plat Pays, Morne",Stratovolcano,Dominica,West Indies,West Indies,holocene,1270 CE,15,15,11227.0,38372.0,57856.0,557207.0,940,3084
+909,Platanar,Stratovolcano,Costa Rica,México and Central America,Costa Rica,holocene,Unknown - Evidence Credible,10,10,620.0,40382.0,339271.0,3381523.0,2267,7438
+912,Poas,Stratovolcano,Costa Rica,México and Central America,Costa Rica,holocene,2019 CE,10,10,1947.0,11107.0,950796.0,3411023.0,2697,8848
+913,Pocdol Mountains,Compound,Philippines,Philippines and SE Asia,Luzon,holocene,Unknown - Unrest / Holocene,13,13,2281.0,116612.0,808931.0,3440360.0,1102,3615
+914,Popa,Stratovolcano,Burma (Myanmar),Philippines and SE Asia,Southeast Asia,holocene,6050 BCE,20,20,1108.0,22922.0,452931.0,5923206.0,1518,4980
+915,Popocatepetl,Stratovolcano,Mexico,México and Central America,Mexico,holocene,2022 CE,19,19,325.0,2584.0,634054.0,26509510.0,5393,17694
+916,Porak,Stratovolcano,Armenia,Mediterranean and Western Asia,Western Asia,holocene,778 BCE,40,40,194.0,955.0,62882.0,1713373.0,3029,9938
+918,Prestahnukur,Subglacial,Iceland,Iceland and Arctic Ocean,Iceland (southwestern),holocene,3350 BCE,64,64,60.0,60.0,233.0,183485.0,1385,4544
+920,"Prieto, Cerro",Lava dome,Mexico,México and Central America,Mexico,holocene,Unknown - Evidence Uncertain,32,32,4506.0,15945.0,571710.0,1308761.0,223,732
+924,Pulosari,Stratovolcano,Indonesia,Indonesia,Java,holocene,Unknown - Evidence Credible,6,6,5739.0,42356.0,739785.0,20059788.0,1324,4344
+925,Pululahua,Caldera,Ecuador,South America,Ecuador,holocene,290 CE,0,0,534403.0,534403.0,1192411.0,3330856.0,3356,11010
+926,Puntiagudo-Cordon Cenizos,Stratovolcano,Chile,South America,Central Chile and Argentina,holocene,1850 CE,40,40,30.0,284.0,5666.0,698814.0,2493,8179
+927,Purace,Stratovolcano,Colombia,South America,Colombia,holocene,1977 CE,2,2,1465.0,7152.0,335698.0,1751540.0,4650,15256
+929,Putana,Stratovolcano,Chile,South America,"Northern Chile, Bolivia and Argentina",holocene,1810 CE,22,22,24.0,80.0,1609.0,12788.0,5884,19304
+930,Puyehue-Cordon Caulle,Stratovolcano,Chile,South America,Central Chile and Argentina,holocene,2012 CE,40,40,129.0,783.0,7163.0,515357.0,2236,7336
+931,Puyuhuapi,Pyroclastic cone,Chile,South America,Southern Chile and Argentina,holocene,Unknown - Evidence Credible,44,44,759.0,819.0,1063.0,17135.0,524,1719
+932,Qualibou,Caldera,Saint Lucia,West Indies,West Indies,holocene,1766 CE,13,13,87921.0,87921.0,172439.0,690495.0,777,2549
+933,Quetrupillan,Stratovolcano,Chile,South America,Central Chile and Argentina,holocene,255 CE,39,39,129.0,518.0,11191.0,269087.0,2360,7743
+934,"Quill, The",Stratovolcano,Netherlands,West Indies,West Indies,holocene,250 CE,17,17,2195.0,2195.0,8361.0,134936.0,601,1972
+935,Quilotoa,Caldera,Ecuador,South America,Ecuador,holocene,1280 CE,0,0,40429.0,40429.0,124306.0,4333779.0,3914,12841
+936,Quimsachata,Lava dome,Peru,South America,Peru,holocene,4450 BCE,14,14,5061.0,9561.0,85048.0,580016.0,3848,12625
+937,Rabaul,Pyroclastic shield,Papua New Guinea,Melanesia and Australia,New Britain,holocene,2014 CE,4,4,3311.0,43531.0,199361.0,252121.0,688,2257
+938,Ragang,Stratovolcano,Philippines,Philippines and SE Asia,Mindanao,holocene,1916 CE,7,7,447.0,2646.0,331796.0,6423725.0,2790,9154
+939,"Rahat, Harrat",Volcanic field,Saudi Arabia,Middle East and Indian Ocean,Middle East (southern),holocene,1256 CE,23,23,138380.0,1010115.0,1010115.0,1010115.0,1744,5722
+942,Rajabasa,Stratovolcano,Indonesia,Indonesia,Sumatra,holocene,Unknown - Unrest / Holocene,5,5,3534.0,144855.0,557060.0,7750607.0,1281,4203
+943,Rakkibetsudake [Demon],Stratovolcano,Japan,Kuril Islands,Kuril Islands,holocene,Unknown - Evidence Credible,45,45,69.0,150.0,453.0,4180.0,1205,3953
+944,Ranakah,Lava dome,Indonesia,Indonesia,Lesser Sunda Islands,holocene,1991 CE,8,8,1283.0,63314.0,291790.0,860496.0,2350,7710
+945,Ranau,Caldera,Indonesia,Indonesia,Sumatra,holocene,Unknown - Evidence Uncertain,4,4,12275.0,12275.0,21279.0,939197.0,1854,6083
+947,Rapa Nui,Shield,Chile,South America,Pacific Ocean (Chilean Islands),holocene,Unknown - Evidence Credible,27,27,698.0,4029.0,4091.0,4091.0,501,1644
+949,Raung,Stratovolcano,Indonesia,Indonesia,Java,holocene,2021 CE,8,8,152.0,572.0,581515.0,8123987.0,3260,10696
+950,Rausudake,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Hokkaido,holocene,1800 CE,44,44,35.0,4623.0,8574.0,218325.0,1660,5446
+951,Raususan [Mendeleev],Stratovolcano,Japan,Kuril Islands,Kuril Islands,holocene,1880 CE,43,43,236.0,1783.0,3527.0,114486.0,882,2894
+956,"Resago, Volcan",Pyroclastic cone,Chile,South America,Central Chile and Argentina,holocene,Unknown - Evidence Credible,36,36,35.0,196.0,2095.0,268547.0,1890,6201
+957,Reventador,Stratovolcano,Ecuador,South America,Ecuador,holocene,2022 CE,0,0,484.0,963.0,4403.0,2619647.0,3562,11686
+958,Reykjanes,Crater rows,Iceland,Iceland and Arctic Ocean,Iceland (southwestern),holocene,1831 CE,63,63,13995.0,13995.0,15542.0,192922.0,140,459
+959,Riendengan-Sempu,Caldera,Indonesia,Indonesia,Sulawesi,holocene,Unknown - Unrest / Holocene,1,1,263169.0,263169.0,507642.0,1671136.0,1549,5082
+960,Rincon de la Vieja,Complex,Costa Rica,México and Central America,Costa Rica,holocene,2022 CE,10,10,271.0,1428.0,78668.0,659105.0,1916,6286
+961,Rinjani,Stratovolcano,Indonesia,Indonesia,Lesser Sunda Islands,holocene,2016 CE,8,8,10289.0,55594.0,1374441.0,3555330.0,3726,12224
+963,Rishirizan,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Hokkaido,holocene,5830 BCE,45,45,178.0,9895.0,12933.0,94414.0,1721,5646
+964,Ritter Island,Stratovolcano,Papua New Guinea,Melanesia and Australia,Northeast of New Guinea,holocene,2007 CE,5,5,3.0,43.0,4323.0,68670.0,75,246
+967,Romeral,Stratovolcano,Colombia,South America,Colombia,holocene,5390 BCE,5,5,236.0,2822.0,537402.0,4005655.0,3769,12365
+968,Rota,Stratovolcano,Nicaragua,México and Central America,Nicaragua,holocene,Unknown - Evidence Credible,12,12,4930.0,16664.0,319797.0,3503709.0,832,2730
+971,Ruang,Stratovolcano,Indonesia,Indonesia,Sangihe Islands,holocene,2002 CE,2,2,878.0,1652.0,2766.0,149159.0,725,2379
+972,Ruapehu,Stratovolcano,New Zealand,New Zealand to Fiji,New Zealand,holocene,2007 CE,39,39,14.0,298.0,6901.0,119709.0,2797,9177
+974,Rudakov,Stratovolcano,Russia,Kuril Islands,Kuril Islands,holocene,Unknown - Evidence Uncertain,45,45,11.0,18.0,39.0,643.0,532,1745
+975,"Ruiz, Nevado del",Stratovolcano,Colombia,South America,Colombia,holocene,2022 CE,4,4,3849.0,20146.0,507608.0,4252435.0,5279,17320
+980,Rungwe,Stratovolcano,Tanzania,Africa and Red Sea,Africa (eastern),holocene,1250 CE,9,9,644.0,20713.0,393819.0,2299914.0,2953,9688
+982,Saba,Stratovolcano,Netherlands,West Indies,West Indies,holocene,1640 CE,17,17,1718.0,1718.0,1752.0,136185.0,887,2910
+983,Sabalan,Stratovolcano,Iran,Middle East and Indian Ocean,Middle East (western),holocene,Unknown - Evidence Credible,38,38,136.0,762.0,103605.0,1961046.0,4784,15696
+984,Sabancaya,Stratovolcano,Peru,South America,Peru,holocene,2022 CE,15,15,51.0,526.0,12678.0,1052517.0,5960,19554
+985,Sahand,Stratovolcano,Iran,Middle East and Indian Ocean,Middle East (western),holocene,Unknown - Evidence Credible,37,37,163.0,1449.0,60328.0,2878308.0,3707,12162
+986,Sairecabur,Stratovolcano,Chile,South America,"Northern Chile, Bolivia and Argentina",holocene,Unknown - Evidence Credible,22,22,21.0,69.0,1721.0,11172.0,5961,19557
+987,Sakar,Stratovolcano,Papua New Guinea,Melanesia and Australia,Northeast of New Guinea,holocene,Unknown - Evidence Uncertain,5,5,149.0,160.0,1176.0,58544.0,992,3255
+988,Salak,Stratovolcano,Indonesia,Indonesia,Java,holocene,1938 CE,6,6,1367.0,80578.0,2675904.0,38154252.0,2218,7277
+989,Salton Buttes,Lava dome,United States,Canada and Western USA,USA (California),holocene,210 CE,33,33,227.0,408.0,38579.0,1214088.0,-40,-131
+990,Samsari Volcanic Center,Lava cone,Georgia,Mediterranean and Western Asia,Western Asia,holocene,Unknown - Evidence Uncertain,41,41,13210.0,13210.0,86563.0,1467499.0,3290,10794
+991,San Borja Volcanic Field,Pyroclastic cone,Mexico,México and Central America,Mexico,holocene,Unknown - Evidence Credible,28,28,722.0,722.0,2558.0,45359.0,1360,4462
+993,San Cristobal,Stratovolcano,Nicaragua,México and Central America,Nicaragua,holocene,2022 CE,12,12,208.0,7876.0,351227.0,2002579.0,1745,5725
+994,San Cristobal,Shield,Ecuador,South America,Galapagos Islands,holocene,Unknown - Evidence Credible,0,0,7661.0,7661.0,7723.0,16189.0,759,2490
+995,San Diego,Volcanic field,El Salvador,México and Central America,El Salvador and Honduras,holocene,Unknown - Evidence Credible,14,14,130144.0,130144.0,316296.0,7169826.0,781,2562
+996,San Francisco Volcanic Field,Pyroclastic cone,United States,Canada and Western USA,USA (Arizona),holocene,1075 CE,35,35,23157.0,23157.0,70472.0,190983.0,3850,12631
+997,San Joaquin,Shield,Equatorial Guinea,Africa and Red Sea,Africa (western),holocene,Unknown - Evidence Credible,3,3,706.0,1432.0,16190.0,349646.0,2009,6591
+998,San Jose,Stratovolcano,Chile,South America,Central Chile and Argentina,holocene,1960 CE,33,33,194.0,616.0,15963.0,6615248.0,6070,19915
+1000,San Martin,Shield,Mexico,México and Central America,Mexico,holocene,1796 CE,18,18,280.0,3581.0,259640.0,1645811.0,1650,5413
+1001,San Miguel,Stratovolcano,El Salvador,México and Central America,El Salvador and Honduras,holocene,2020 CE,13,13,1232.0,63007.0,796482.0,3633885.0,2130,6988
+1002,San Pablo Volcanic Field,Stratovolcano,Philippines,Philippines and SE Asia,Luzon,holocene,1350 CE,14,14,1349742.0,1349742.0,3039334.0,24626975.0,1090,3576
+1003,San Pedro-Pellado,Stratovolcano,Chile,South America,Central Chile and Argentina,holocene,Unknown - Evidence Credible,35,35,12.0,208.0,4155.0,500494.0,3621,11880
+1004,San Salvador,Stratovolcano,El Salvador,México and Central America,El Salvador and Honduras,holocene,1917 CE,13,13,29514.0,800780.0,2857563.0,6366833.0,1893,6211
+1005,San Vicente,Stratovolcano,El Salvador,México and Central America,El Salvador and Honduras,holocene,Unknown - Evidence Credible,13,13,7505.0,103854.0,864425.0,6349950.0,2182,7159
+1006,Sanbesan,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,650 CE,35,35,1300.0,6795.0,171742.0,3597290.0,1126,3694
+1007,Sand Mountain Field,Pyroclastic cone,United States,Canada and Western USA,USA (Oregon),holocene,950 BCE,44,44,89.0,89.0,1574.0,519291.0,1664,5459
+1008,Sanganguey,Stratovolcano,Mexico,México and Central America,Mexico,holocene,Unknown - Evidence Credible,21,21,101.0,7622.0,403964.0,993475.0,2340,7677
+1009,Sangay,Stratovolcano,Ecuador,South America,Ecuador,holocene,2022 CE,2,2,231.0,1675.0,15130.0,1355275.0,5286,17343
+1010,Sangeang Api,Complex,Indonesia,Indonesia,Lesser Sunda Islands,holocene,2020 CE,8,8,204.0,1155.0,39301.0,809132.0,1912,6273
+1011,"Sano, Wai",Caldera,Indonesia,Indonesia,Lesser Sunda Islands,holocene,Unknown - Evidence Credible,8,8,127347.0,127347.0,242184.0,831863.0,1319,4327
+1012,Santa Ana,Stratovolcano,El Salvador,México and Central America,El Salvador and Honduras,holocene,2005 CE,13,13,489.0,21653.0,1240131.0,6486880.0,2381,7812
+1013,Santa Cruz,Shield,Ecuador,South America,Galapagos Islands,holocene,Unknown - Evidence Credible,0,0,8529.0,8529.0,8800.0,18434.0,864,2835
+1014,Santa Isabel,Shield,Equatorial Guinea,Africa and Red Sea,Africa (western),holocene,1923 CE,3,3,95977.0,95977.0,117500.0,506900.0,2999,9839
+1015,Santa Isabel,Shield,Colombia,South America,Colombia,holocene,850 BCE,4,4,4793.0,12226.0,302952.0,4137147.0,4944,16220
+1016,Santa Maria,Stratovolcano,Guatemala,México and Central America,Guatemala,holocene,2022 CE,14,14,8675.0,119462.0,1259600.0,6197420.0,3745,12287
+1017,Santiago,Shield,Ecuador,South America,Galapagos Islands,holocene,1906 CE,0,0,74.0,74.0,104.0,12001.0,920,3018
+1018,"Santiago, Cerro",Volcanic field,Guatemala,México and Central America,Guatemala,holocene,Unknown - Evidence Credible,14,14,226325.0,226325.0,405083.0,8210264.0,1192,3911
+1019,Santorini,Shield,Greece,Mediterranean and Western Asia,Greece,holocene,1950 CE,36,36,5176.0,12266.0,12336.0,67468.0,367,1204
+1020,Sao Jorge,Fissure vent,Portugal,Atlantic Ocean,Azores,holocene,1907 CE,38,38,2088.0,4689.0,16290.0,99442.0,1053,3455
+1021,Sara Sara,Stratovolcano,Peru,South America,Peru,holocene,Unknown - Evidence Credible,15,15,53.0,751.0,18707.0,127762.0,5522,18117
+1023,Sarik-Gajah,Pyroclastic cone,Indonesia,Indonesia,Sumatra,holocene,Unknown - Evidence Uncertain,0,0,5188.0,21465.0,247754.0,2951369.0,737,2418
+1024,Sarychev Peak,Stratovolcano,Russia,Kuril Islands,Kuril Islands,holocene,2021 CE,48,48,17.0,143.0,143.0,148.0,1496,4908
+1028,Savo,Stratovolcano,Solomon Islands,Melanesia and Australia,Bougainville and Solomon Islands,holocene,1847 CE,9,9,3200.0,3200.0,6251.0,174571.0,485,1591
+1029,"Sawad, Harra Es-",Volcanic field,Yemen,Middle East and Indian Ocean,Middle East (southern),holocene,1253 CE,13,13,74598.0,74598.0,74598.0,850297.0,1737,5699
+1032,Segererua Plateau,Pyroclastic cone,Kenya,Africa and Red Sea,Africa (eastern),holocene,Unknown - Evidence Credible,1,1,5211.0,5211.0,11949.0,147996.0,699,2293
+1035,Sekincau Belirang,Caldera,Indonesia,Indonesia,Sumatra,holocene,Unknown - Unrest / Holocene,5,5,176.0,2238.0,18911.0,2336471.0,1717,5633
+1036,Semeru,Stratovolcano,Indonesia,Indonesia,Java,holocene,2022 CE,8,8,2686.0,8375.0,1022197.0,20098931.0,3657,11998
+1038,Serdan-Oriental,Tuff cone,Mexico,México and Central America,Mexico,holocene,Unknown - Evidence Credible,19,19,93158.0,93158.0,211350.0,7672879.0,3485,11434
+1039,Serua,Stratovolcano,Indonesia,Indonesia,Banda Sea,holocene,1921 CE,6,6,58.0,58.0,58.0,258.0,608,1995
+1040,Sessagara,Pyroclastic cone,Papua New Guinea,Melanesia and Australia,New Guinea and D'Entrecasteaux Islands,holocene,Unknown - Evidence Credible,9,9,5210.0,5210.0,9898.0,131143.0,370,1214
+1041,Sete Cidades,Stratovolcano,Portugal,Atlantic Ocean,Azores,holocene,1880 CE,37,37,3515.0,10365.0,102848.0,127154.0,842,2762
+1042,Seulawah Agam,Stratovolcano,Indonesia,Indonesia,Sumatra,holocene,1839 CE,5,5,226.0,10555.0,306345.0,1565392.0,1810,5938
+1044,Sharat Kovakab,Volcanic field,Syria,Middle East and Indian Ocean,Middle East (western),holocene,Unknown - Evidence Credible,36,36,176268.0,176268.0,228172.0,1826752.0,516,1693
+1047,Shiga,Shield,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,Unknown - Evidence Uncertain,36,36,2474.0,9610.0,449713.0,5784413.0,2041,6696
+1048,Shikotsu,Caldera,Japan,"Japan, Taiwan, Marianas",Hokkaido,holocene,1979 CE,42,42,130474.0,130474.0,316816.0,3096376.0,1320,4331
+1049,Shiretoko-Iozan,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Hokkaido,holocene,1936 CE,44,44,6.0,1516.0,7890.0,209060.0,1562,5125
+1053,Sibualbuali,Stratovolcano,Indonesia,Indonesia,Sumatra,holocene,Unknown - Evidence Uncertain,1,1,2249.0,10838.0,404339.0,2481584.0,1819,5968
+1054,Silali,Shield,Kenya,Africa and Red Sea,Africa (eastern),holocene,5050 BCE,1,1,157.0,784.0,18705.0,917921.0,1528,5013
+1055,Silay,Stratovolcano,Philippines,Philippines and SE Asia,Central Philippines,holocene,Unknown - Unrest / Holocene,10,10,310.0,11499.0,1167963.0,9522729.0,1510,4954
+1056,Silverthrone,Caldera,Canada,Canada and Western USA,Canada,holocene,Unknown - Evidence Credible,51,51,7.0,7.0,67.0,1278.0,3160,10367
+1057,Simbo,Stratovolcano,Solomon Islands,Melanesia and Australia,Bougainville and Solomon Islands,holocene,1910 CE,8,8,210.0,240.0,833.0,27923.0,335,1099
+1058,Sinabung,Stratovolcano,Indonesia,Indonesia,Sumatra,holocene,2021 CE,3,3,997.0,13801.0,163630.0,7646863.0,2460,8071
+1060,Singkut,Caldera,Indonesia,Indonesia,Sumatra,holocene,1881 CE,3,3,11833.0,21448.0,228453.0,7958409.0,2181,7156
+1061,"Singuil, Cerro",Pyroclastic cone,El Salvador,México and Central America,El Salvador and Honduras,holocene,Unknown - Evidence Credible,14,14,25874.0,156926.0,883616.0,6672302.0,926,3038
+1062,Sirung,Complex,Indonesia,Indonesia,Lesser Sunda Islands,holocene,2021 CE,8,8,5966.0,19334.0,69744.0,418756.0,862,2828
+1063,Slamet,Stratovolcano,Indonesia,Indonesia,Java,holocene,2014 CE,7,7,856.0,13401.0,2904026.0,20217467.0,3428,11247
+1065,Snaefellsjokull,Stratovolcano,Iceland,Iceland and Arctic Ocean,Iceland (western),holocene,200 CE,64,64,9.0,129.0,2264.0,11820.0,1446,4744
+1067,Soche,Stratovolcano,Ecuador,South America,Ecuador,holocene,6650 BCE,0,0,123.0,1460.0,70322.0,1840573.0,3955,12976
+1068,Socompa,Stratovolcano,Chile,South America,"Northern Chile, Bolivia and Argentina",holocene,5250 BCE,24,24,5.0,113.0,538.0,8620.0,6031,19787
+1070,Soda Lakes,Maar,United States,Canada and Western USA,USA (Nevada),holocene,Unknown - Evidence Credible,39,39,1616.0,11149.0,25655.0,557259.0,1251,4104
+1071,Sodore,Pyroclastic cone,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,8,8,432998.0,432998.0,648056.0,7539098.0,1765,5791
+1073,Sollipulli,Caldera,Chile,South America,Central Chile and Argentina,holocene,1240 CE,38,38,2971.0,2971.0,8904.0,510741.0,2282,7487
+1075,Soputan,Stratovolcano,Indonesia,Indonesia,Sulawesi,holocene,2020 CE,1,1,4724.0,69991.0,501336.0,1696768.0,1785,5856
+1076,Sorikmarapi,Stratovolcano,Indonesia,Indonesia,Sumatra,holocene,1986 CE,0,0,203.0,1469.0,90257.0,1831957.0,2145,7037
+1077,Sork Ale,Stratovolcano,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Uncertain,13,13,174.0,632.0,3896.0,38428.0,1611,5285
+1078,Sotara,Stratovolcano,Colombia,South America,Colombia,holocene,Unknown - Evidence Credible,2,2,1188.0,5553.0,127782.0,1726425.0,4400,14436
+1079,Soufriere Guadeloupe,Stratovolcano,France,West Indies,West Indies,holocene,1977 CE,16,16,8839.0,71345.0,256899.0,482449.0,1467,4813
+1080,Soufriere Hills,Stratovolcano,United Kingdom,West Indies,West Indies,holocene,2013 CE,16,16,3006.0,9401.0,9458.0,448929.0,915,3002
+1081,Soufriere St. Vincent,Stratovolcano,Saint Vincent and the Grenadines,West Indies,West Indies,holocene,2021 CE,13,13,1491.0,15327.0,103882.0,291476.0,1220,4003
+1093,St. Andrew Strait,Complex,Papua New Guinea,Melanesia and Australia,Admiralty Islands,holocene,1957 CE,2,2,633.0,678.0,2870.0,47539.0,270,886
+1094,St. Catherine,Stratovolcano,Grenada,West Indies,West Indies,holocene,Unknown - Evidence Credible,12,12,8561.0,41976.0,84210.0,93321.0,840,2756
+1095,St. Helens,Stratovolcano,United States,Canada and Western USA,USA (Washington),holocene,2008 CE,46,46,78.0,427.0,2221.0,2173101.0,2549,8363
+1096,St. Michael,Shield,United States,Alaska,Alaska (western),holocene,Unknown - Evidence Credible,63,63,662.0,662.0,662.0,2625.0,715,2346
+1098,St. Paul Island,Shield,United States,Alaska,Alaska (western),holocene,1280 BCE,57,57,582.0,582.0,582.0,783.0,203,666
+1101,Stromboli,Stratovolcano,Italy,Mediterranean and Western Asia,Italy,holocene,2022 CE,38,38,2225.0,2225.0,3894.0,1347563.0,924,3031
+1104,Suchitan,Stratovolcano,Guatemala,México and Central America,Guatemala,holocene,Unknown - Evidence Credible,14,14,4149.0,49376.0,421074.0,8257118.0,2042,6699
+1106,Sulu Range,Stratovolcano,Papua New Guinea,Melanesia and Australia,New Britain,holocene,Unknown - Unrest / Holocene,5,5,298.0,1543.0,15051.0,135039.0,610,2001
+1107,Sumaco,Stratovolcano,Ecuador,South America,Ecuador,holocene,1895 CE,0,0,39.0,324.0,8384.0,679867.0,3990,13091
+1108,Sumbing,Stratovolcano,Indonesia,Indonesia,Sumatra,holocene,1921 CE,2,2,3.0,304.0,49583.0,1209448.0,2507,8225
+1109,Sumbing,Stratovolcano,Indonesia,Indonesia,Java,holocene,1730 CE,7,7,15294.0,310361.0,2425607.0,25707858.0,3371,11060
+1111,Sundoro,Stratovolcano,Indonesia,Indonesia,Java,holocene,1971 CE,7,7,52462.0,496751.0,2086299.0,24996512.0,3147,10325
+1112,Suoh,Caldera,Indonesia,Indonesia,Sumatra,holocene,1933 CE,5,5,837.0,2048.0,24619.0,1616500.0,1000,3281
+1114,Suretamatai,Complex,Vanuatu,Melanesia and Australia,Vanuatu,holocene,1966 CE,13,13,68.0,3509.0,5555.0,9242.0,921,3022
+1115,Suswa,Shield,Kenya,Africa and Red Sea,Africa (eastern),holocene,Unknown - Evidence Credible,1,1,474.0,4041.0,105232.0,6914644.0,2356,7730
+1116,Suwanosejima,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Ryukyu Islands and Kyushu,holocene,2022 CE,29,29,107.0,107.0,325.0,1966.0,796,2612
+1117,Ta'u,Shield,United States,New Zealand to Fiji,Samoan and Wallis Islands,holocene,Unknown - Evidence Credible,14,14,95.0,1154.0,1538.0,1538.0,931,3054
+1118,Taal,Caldera,Philippines,Philippines and SE Asia,Luzon,holocene,2021 CE,14,14,717090.0,717090.0,2380326.0,24814047.0,311,1020
+1119,Taapaca,Complex,Chile,South America,"Northern Chile, Bolivia and Argentina",holocene,320 BCE,18,18,3.0,87.0,1994.0,505369.0,5860,19226
+1120,Taburete,Stratovolcano,El Salvador,México and Central America,El Salvador and Honduras,holocene,Unknown - Evidence Uncertain,13,13,11815.0,71829.0,581517.0,5543122.0,1172,3845
+1121,Tacana,Stratovolcano,Mexico,México and Central America,Mexico,holocene,1986 CE,15,15,3032.0,20932.0,598594.0,4523701.0,4064,13333
+1122,Tacora,Stratovolcano,Chile,South America,"Northern Chile, Bolivia and Argentina",holocene,Unknown - Unrest / Holocene,17,17,7.0,539.0,8757.0,411691.0,5980,19619
+1123,Tafahi,Stratovolcano,Tonga,New Zealand to Fiji,Tonga Islands,holocene,Unknown - Evidence Uncertain,15,15,37.0,37.0,1706.0,1706.0,560,1837
+1124,Taftan,Stratovolcano,Iran,Middle East and Indian Ocean,Middle East (eastern),holocene,Unknown - Evidence Credible,28,28,8.0,132.0,8118.0,191711.0,3940,12927
+1127,Tahual,Stratovolcano,Guatemala,México and Central America,Guatemala,holocene,Unknown - Evidence Credible,14,14,10052.0,49010.0,449894.0,7570087.0,1716,5630
+1129,Taisetsuzan,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Hokkaido,holocene,1739 CE,43,43,19.0,119.0,16391.0,1304267.0,2291,7516
+1130,Tajumulco,Stratovolcano,Guatemala,México and Central America,Guatemala,holocene,Unknown - Evidence Credible,15,15,2398.0,71560.0,796805.0,5255535.0,4203,13789
+1131,Takaharayama,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,4570 BCE,36,36,303.0,4572.0,381490.0,8750106.0,1795,5889
+1134,Takuan Group,Compound,Papua New Guinea,Melanesia and Australia,Bougainville and Solomon Islands,holocene,Unknown - Evidence Credible,6,6,13.0,1177.0,62020.0,98513.0,2210,7251
+1135,Talagabodas,Stratovolcano,Indonesia,Indonesia,Java,holocene,Unknown - Unrest / Holocene,7,7,7953.0,68266.0,2388005.0,24525517.0,2201,7221
+1136,Talakmau,Complex,Indonesia,Indonesia,Sumatra,holocene,Unknown - Evidence Credible,0,0,75.0,3261.0,352639.0,2728121.0,2919,9577
+1137,Talang,Stratovolcano,Indonesia,Indonesia,Sumatra,holocene,2007 CE,0,0,1593.0,18512.0,214975.0,3283153.0,2575,8448
+1138,Tambo Quemado,Pyroclastic shield,Bolivia,South America,"Northern Chile, Bolivia and Argentina",holocene,Unknown - Evidence Credible,18,18,113.0,541.0,4293.0,48050.0,4215,13829
+1139,Tambora,Stratovolcano,Indonesia,Indonesia,Lesser Sunda Islands,holocene,1967 CE,8,8,4156.0,11331.0,89006.0,1036033.0,2850,9350
+1140,Tampomas,Stratovolcano,Indonesia,Indonesia,Java,holocene,Unknown - Evidence Credible,6,6,47404.0,194503.0,2301649.0,24709382.0,1684,5525
+1143,Tandikat-Singgalang,Stratovolcano,Indonesia,Indonesia,Sumatra,holocene,1924 CE,0,0,130.0,38799.0,604282.0,4022932.0,2854,9364
+1145,Tangkoko-Duasudara,Stratovolcano,Indonesia,Indonesia,Sulawesi,holocene,1880 CE,1,1,445.0,57792.0,135761.0,1227998.0,1334,4377
+1146,Tangkuban Parahu,Stratovolcano,Indonesia,Indonesia,Java,holocene,2019 CE,6,6,100608.0,518822.0,5729309.0,32855731.0,2084,6837
+1148,"Tara, Batu",Stratovolcano,Indonesia,Indonesia,Lesser Sunda Islands,holocene,2015 CE,7,7,207.0,207.0,207.0,455429.0,633,2077
+1149,Tarakan,Pyroclastic cone,Indonesia,Indonesia,Halmahera,holocene,Unknown - Evidence Credible,1,1,18056.0,23570.0,85055.0,360761.0,318,1043
+1150,Taranaki,Stratovolcano,New Zealand,New Zealand to Fiji,New Zealand,holocene,1800 CE,39,39,200.0,230.0,77381.0,104499.0,2518,8261
+1151,Taryatu-Chulutu,Volcanic field,Mongolia,Kamchatka and Mainland Asia,Mongolia,holocene,2980 BCE,48,48,5602.0,5602.0,5602.0,29050.0,2326,7631
+1152,Tat Ali,Shield,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,13,13,32.0,44.0,2130.0,100598.0,655,2149
+1153,Tata Sabaya,Stratovolcano,Bolivia,South America,"Northern Chile, Bolivia and Argentina",holocene,Unknown - Evidence Credible,19,19,97.0,519.0,6266.0,40064.0,5430,17815
+1154,Tatun Volcanic Group,Lava dome,Taiwan,"Japan, Taiwan, Marianas",Taiwan,holocene,648 CE,25,25,5084149.0,5084149.0,6735396.0,9862061.0,1120,3675
+1156,Taupo,Caldera,New Zealand,New Zealand to Fiji,New Zealand,holocene,260 CE,38,38,21456.0,21456.0,26674.0,161966.0,760,2493
+1157,Taveuni,Shield,Fiji,New Zealand to Fiji,Fiji Islands,holocene,1550 CE,16,16,692.0,3220.0,19186.0,146131.0,1241,4072
+1158,Tavui,Caldera,Papua New Guinea,Melanesia and Australia,New Britain,holocene,4946 BCE,4,4,30373.0,30373.0,152530.0,259182.0,200,656
+1160,Tecapa,Stratovolcano,El Salvador,México and Central America,El Salvador and Honduras,holocene,Unknown - Evidence Credible,13,13,37337.0,80502.0,590144.0,5599535.0,1593,5226
+1161,Tecuamburro,Stratovolcano,Guatemala,México and Central America,Guatemala,holocene,960 BCE,14,14,1939.0,29560.0,313834.0,6874746.0,1845,6053
+1162,Telica,Stratovolcano,Nicaragua,México and Central America,Nicaragua,holocene,2022 CE,12,12,1079.0,21990.0,327294.0,2982538.0,1036,3399
+1163,Telomoyo,Stratovolcano,Indonesia,Indonesia,Java,holocene,Unknown - Evidence Credible,7,7,38661.0,166844.0,2794587.0,25617237.0,1864,6115
+1164,"Telong, Bur ni",Stratovolcano,Indonesia,Indonesia,Sumatra,holocene,1937 CE,4,4,1342.0,25733.0,125812.0,1631846.0,2617,8586
+1166,Tenduruk Dagi,Shield,Turkey,Mediterranean and Western Asia,Turkey,holocene,1855 CE,39,39,550.0,5060.0,173581.0,1938900.0,3514,11529
+1168,Tengchong,Pyroclastic cone,China,Philippines and SE Asia,Southeast Asia,holocene,5750 BCE,25,25,153375.0,153375.0,419814.0,2932117.0,2865,9400
+1169,Tengger Caldera,Stratovolcano,Indonesia,Indonesia,Java,holocene,2021 CE,7,7,27826.0,69451.0,1420878.0,22628278.0,2329,7641
+1170,Tenorio,Stratovolcano,Costa Rica,México and Central America,Costa Rica,holocene,Unknown - Evidence Credible,10,10,436.0,11670.0,92344.0,943351.0,1916,6286
+1171,Teon,Stratovolcano,Indonesia,Indonesia,Banda Sea,holocene,1904 CE,6,6,19.0,102.0,102.0,2045.0,728,2388
+1172,Tepi,Shield,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Unrest / Holocene,7,7,63395.0,63395.0,207121.0,1629787.0,2728,8950
+1173,Terceira,Stratovolcano,Portugal,Atlantic Ocean,Azores,holocene,2000 CE,38,38,2928.0,12299.0,55425.0,81512.0,1023,3356
+1178,Ticsani,Lava dome,Peru,South America,Peru,holocene,1800 CE,16,16,48.0,977.0,18160.0,227639.0,5408,17743
+1179,Tidore,Stratovolcano,Indonesia,Indonesia,Halmahera,holocene,Unknown - Evidence Credible,0,0,37379.0,74120.0,320483.0,530066.0,1730,5676
+1180,Tigalalu,Stratovolcano,Indonesia,Indonesia,Halmahera,holocene,Unknown - Evidence Credible,0,0,621.0,2350.0,7396.0,422007.0,422,1385
+1181,"Tigre, El",Stratovolcano,El Salvador,México and Central America,El Salvador and Honduras,holocene,Unknown - Evidence Credible,13,13,24354.0,112718.0,786750.0,5456104.0,1640,5381
+1182,"Tigre, Isla del",Stratovolcano,Honduras,México and Central America,El Salvador and Honduras,holocene,Unknown - Evidence Credible,13,13,5000.0,9983.0,156692.0,2725661.0,774,2539
+1183,Tilocalar,Lava cone,Chile,South America,"Northern Chile, Bolivia and Argentina",holocene,Unknown - Evidence Uncertain,23,23,5.0,9.0,487.0,6154.0,3109,10200
+1186,Tinguiririca,Stratovolcano,Chile,South America,Central Chile and Argentina,holocene,1917 CE,34,34,10.0,47.0,1883.0,881383.0,4280,14042
+1191,Toba,Caldera,Indonesia,Indonesia,Sumatra,holocene,Unknown - Evidence Credible,2,2,125908.0,125908.0,168995.0,3437177.0,2157,7077
+1192,Tobaru,Stratovolcano,Indonesia,Indonesia,Halmahera,holocene,Unknown - Evidence Credible,1,1,215.0,5963.0,64388.0,532821.0,1035,3396
+1193,Todoko-Ranu,Caldera,Indonesia,Indonesia,Halmahera,holocene,Unknown - Evidence Credible,1,1,366.0,10748.0,56900.0,631999.0,979,3212
+1194,Todra Volcanic Field,Pyroclastic cone,Niger,Africa and Red Sea,Africa (northern),holocene,Unknown - Evidence Credible,17,17,362.0,362.0,927.0,146935.0,1780,5840
+1195,Tofua,Caldera,Tonga,New Zealand to Fiji,Tonga Islands,holocene,2022 CE,19,19,1556.0,1556.0,1556.0,8789.0,515,1690
+1197,Tokachidake,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Hokkaido,holocene,2004 CE,43,43,12.0,227.0,60382.0,1373264.0,2077,6814
+1199,Tolhuaca,Stratovolcano,Chile,South America,Central Chile and Argentina,holocene,4000 BCE,38,38,82.0,494.0,13873.0,567185.0,2739,8986
+1200,"Tolima, Nevado del",Stratovolcano,Colombia,South America,Colombia,holocene,1943 CE,4,4,1660.0,6563.0,441916.0,4258333.0,5215,17110
+1201,Toliman,Stratovolcano,Guatemala,México and Central America,Guatemala,holocene,Unknown - Evidence Credible,14,14,5641.0,67361.0,703786.0,8130714.0,3158,10361
+1202,Tolmachev Dol,Pyroclastic cone,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,holocene,300 CE,52,52,2.0,2.0,14.0,247676.0,1021,3350
+1203,"Toluca, Nevado de",Stratovolcano,Mexico,México and Central America,Mexico,holocene,1350 BCE,19,19,126.0,1240.0,1626432.0,25247342.0,4680,15354
+1204,Tomariyama [Golovnin],Caldera,Japan,Kuril Islands,Kuril Islands,holocene,1848 CE,43,43,1796.0,1796.0,2445.0,159344.0,535,1755
+1205,Tombel Graben,Pyroclastic cone,Cameroon,Africa and Red Sea,Africa (western),holocene,Unknown - Evidence Credible,4,4,234623.0,234623.0,434892.0,4087423.0,500,1640
+1206,Tondano Caldera,Caldera,Indonesia,Indonesia,Sulawesi,holocene,Unknown - Unrest / Holocene,1,1,321308.0,321308.0,903706.0,1558655.0,1202,3944
+1207,Tongariro,Stratovolcano,New Zealand,New Zealand to Fiji,New Zealand,holocene,2012 CE,39,39,27.0,286.0,7591.0,81567.0,1978,6490
+1210,Toshima,Stratovolcano,Japan,"Japan, Taiwan, Marianas","Izu, Volcano, and Mariana Islands",holocene,4550 BCE,34,34,330.0,331.0,13194.0,5285115.0,508,1667
+1212,Towada,Caldera,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,915 CE,40,40,12366.0,12366.0,103631.0,2237010.0,1011,3317
+1213,Toya,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Hokkaido,holocene,2001 CE,42,42,5723.0,36191.0,214565.0,3206914.0,733,2405
+1214,Traitor's Head,Stratovolcano,Vanuatu,Melanesia and Australia,Vanuatu,holocene,1881 CE,18,18,207.0,380.0,7007.0,30651.0,817,2680
+1215,Tralihue,Stratovolcano,Argentina,South America,Central Chile and Argentina,holocene,Unknown - Evidence Credible,38,38,43.0,385.0,4621.0,97456.0,2448,8031
+1218,Tristan da Cunha,Shield,United Kingdom,Atlantic Ocean,Atlantic Ocean (southern),holocene,1962 CE,37,37,12.0,12.0,12.0,32.0,2060,6759
+1219,"Trois Pitons, Morne",Complex,Dominica,West Indies,West Indies,holocene,920 CE,15,15,2493.0,29522.0,62348.0,687847.0,1387,4551
+1220,Trolon,Lava dome,Argentina,South America,Central Chile and Argentina,holocene,Unknown - Evidence Uncertain,37,37,17.0,235.0,2539.0,65041.0,2360,7743
+1221,Tromen Volcanic Plateau,Stratovolcano,Argentina,South America,Central Chile and Argentina,holocene,1822 CE,37,37,12.0,196.0,2928.0,47403.0,4114,13497
+1222,Tronador,Stratovolcano,Chile,South America,Southern Chile and Argentina,holocene,Unknown - Evidence Uncertain,41,41,7.0,106.0,1293.0,380976.0,3478,11411
+1224,Tskhouk-Karckar,Pyroclastic cone,Armenia,Mediterranean and Western Asia,Western Asia,holocene,3000 BCE,39,39,25.0,243.0,55696.0,1310712.0,3139,10299
+1225,"Tujle, Cerro",Maar,Chile,South America,"Northern Chile, Bolivia and Argentina",holocene,Unknown - Evidence Credible,23,23,2.0,17.0,1968.0,5287.0,3550,11647
+1226,Tullu Moye,Pyroclastic cone,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,1900 CE,8,8,11514.0,51976.0,546291.0,5565084.0,2343,7687
+1228,Tungurahua,Stratovolcano,Ecuador,South America,Ecuador,holocene,2016 CE,1,1,476.0,20990.0,183640.0,1571744.0,5023,16480
+1229,Tunkin Depression,Volcanic field,Russia,Kamchatka and Mainland Asia,Russia (southeastern),holocene,Unknown - Evidence Uncertain,51,51,431.0,431.0,6533.0,63490.0,1200,3937
+1230,Tupungatito,Stratovolcano,Chile,South America,Central Chile and Argentina,holocene,1987 CE,33,33,612.0,923.0,6161.0,6169105.0,5660,18570
+1231,Turrialba,Stratovolcano,Costa Rica,México and Central America,Costa Rica,holocene,2022 CE,10,10,1891.0,6867.0,672428.0,3390544.0,3340,10958
+1232,Tutuila,Tuff cone,United States,New Zealand to Fiji,Samoan and Wallis Islands,holocene,440 CE,14,14,16653.0,49763.0,56239.0,67387.0,653,2142
+1233,Tutupaca,Stratovolcano,Peru,South America,Peru,holocene,1802 CE,17,17,18.0,1125.0,21124.0,213931.0,5801,19032
+1235,Tuzgle,Stratovolcano,Argentina,South America,"Northern Chile, Bolivia and Argentina",holocene,Unknown - Evidence Uncertain,24,24,42.0,217.0,4740.0,22953.0,5486,17999
+1236,Ubehebe Craters,Maar,United States,Canada and Western USA,USA (California),holocene,150 BCE,37,37,18.0,94.0,262.0,15354.0,752,2467
+1237,Ubinas,Stratovolcano,Peru,South America,Peru,holocene,2019 CE,16,16,180.0,1195.0,14607.0,1136785.0,5672,18609
+1240,Udokan Plateau,Pyroclastic cone,Russia,Kamchatka and Mainland Asia,Russia (southeastern),holocene,220 BCE,56,56,12.0,12.0,62.0,4688.0,2180,7152
+1242,Uinkaret Field,Volcanic field,United States,Canada and Western USA,USA (Arizona),holocene,1100 CE,36,36,92.0,92.0,170.0,149617.0,1555,5102
+1244,Ulawun,Stratovolcano,Papua New Guinea,Melanesia and Australia,New Britain,holocene,2021 CE,5,5,30.0,1801.0,10577.0,61018.0,2334,7657
+1246,Ulreung,Stratovolcano,South Korea,Kamchatka and Mainland Asia,Korea,holocene,2990 BCE,37,37,7399.0,9210.0,9210.0,9210.0,984,3228
+1247,Umboi,Complex,Papua New Guinea,Melanesia and Australia,Northeast of New Guinea,holocene,Unknown - Evidence Credible,5,5,249.0,1127.0,5585.0,83275.0,1335,4380
+1248,Ungaran,Stratovolcano,Indonesia,Indonesia,Java,holocene,Unknown - Evidence Credible,7,7,6705.0,110008.0,4595534.0,25639073.0,2050,6726
+1249,Unnamed,Fissure vent,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,8,8,283786.0,283786.0,502586.0,5504017.0,1886,6188
+1256,Unnamed,Submarine,Philippines,Philippines and SE Asia,North of Luzon,holocene,1854 CE,20,20,1.0,214.0,8699.0,13109.0,-24,-79
+1262,Unzendake,Complex,Japan,"Japan, Taiwan, Marianas",Ryukyu Islands and Kyushu,holocene,1996 CE,32,32,6979.0,76424.0,444737.0,7313362.0,1483,4865
+1263,Upolu,Shield,Samoa,New Zealand to Fiji,Samoan and Wallis Islands,holocene,Unknown - Evidence Credible,13,13,680.0,13753.0,144419.0,198677.0,1100,3609
+1264,Uratman,Stratovolcano,Russia,Kuril Islands,Kuril Islands,holocene,Unknown - Evidence Credible,47,47,3.0,9.0,20.0,33.0,678,2224
+1267,Usulutan,Stratovolcano,El Salvador,México and Central America,El Salvador and Honduras,holocene,Unknown - Evidence Credible,13,13,22940.0,154864.0,610124.0,5434637.0,1449,4754
+1270,Vaiyots-Sar,Pyroclastic cone,Armenia,Mediterranean and Western Asia,Western Asia,holocene,2000 BCE,39,39,31477.0,31477.0,57079.0,1465950.0,2575,8448
+1271,Vakinankaratra,Pyroclastic cone,Madagascar,Middle East and Indian Ocean,Indian Ocean (western),holocene,Unknown - Evidence Credible,19,19,123192.0,123192.0,413328.0,5184370.0,2644,8675
+1272,"Valle, El",Stratovolcano,Panama,México and Central America,Panama,holocene,Unknown - Evidence Uncertain,8,8,1544.0,7458.0,131928.0,2108003.0,1185,3888
+1276,Vestmannaeyjar,Submarine,Iceland,Iceland and Arctic Ocean,Iceland (southern),holocene,1973 CE,63,63,1685.0,1685.0,2188.0,17538.0,283,928
+1277,Vesuvius,Stratovolcano,Italy,Mediterranean and Western Asia,Italy,holocene,1944 CE,40,40,19162.0,675705.0,3907941.0,6009961.0,1281,4203
+1278,Victory,Stratovolcano,Papua New Guinea,Melanesia and Australia,New Guinea and D'Entrecasteaux Islands,holocene,1935 CE,9,9,16.0,96.0,14042.0,116816.0,1925,6316
+1279,Villarrica,Stratovolcano,Chile,South America,Central Chile and Argentina,holocene,2021 CE,39,39,477.0,1067.0,35118.0,667788.0,2847,9341
+1281,Visoke,Stratovolcano,DR Congo,Africa and Red Sea,Africa (central),holocene,1957 CE,1,1,17165.0,88356.0,1162209.0,10953315.0,3696,12126
+1283,Vitim Volcanic Field,Pyroclastic cone,Russia,Kamchatka and Mainland Asia,Russia (southeastern),holocene,Unknown - Evidence Credible,53,53,669.0,669.0,669.0,10035.0,1250,4101
+1287,Vulcano,Stratovolcano,Italy,Mediterranean and Western Asia,Italy,holocene,1890 CE,38,38,2259.0,23059.0,86766.0,2093800.0,500,1640
+1288,Vulsini,Caldera,Italy,Mediterranean and Western Asia,Italy,holocene,104 BCE,42,42,71789.0,71789.0,195475.0,4627250.0,800,2625
+1290,Waiowa,Pyroclastic cone,Papua New Guinea,Melanesia and Australia,New Guinea and D'Entrecasteaux Islands,holocene,1944 CE,9,9,61.0,338.0,10041.0,137492.0,640,2100
+1291,Wallis Islands,Shield,France,New Zealand to Fiji,Samoan and Wallis Islands,holocene,Unknown - Evidence Credible,13,13,6897.0,15214.0,15342.0,15342.0,143,469
+1293,Wapi Lava Field,Shield,United States,Canada and Western USA,USA (Idaho),holocene,300 BCE,42,42,6.0,6.0,1394.0,172539.0,1604,5262
+1294,Washiba-Kumonotaira,Shield,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,Unknown - Evidence Credible,36,36,53.0,215.0,104826.0,4446247.0,2924,9593
+1295,"Watt, Morne",Stratovolcano,Dominica,West Indies,West Indies,holocene,1997 CE,15,15,1818.0,35821.0,63178.0,545352.0,1224,4016
+1296,Wells Gray-Clearwater,Pyroclastic cone,Canada,Canada and Western USA,Canada,holocene,1550 CE,52,52,716.0,716.0,716.0,18280.0,2576,8451
+1297,West Crater,Volcanic field,United States,Canada and Western USA,USA (Washington),holocene,5750 BCE,45,45,505.0,505.0,14359.0,2225092.0,1329,4360
+1298,West Eifel Volcanic Field,Maar,Germany,Mediterranean and Western Asia,Western Europe,holocene,8300 BCE,50,50,94991.0,94991.0,232256.0,7945412.0,600,1969
+1302,Whakaari/White Island,Stratovolcano,New Zealand,New Zealand to Fiji,New Zealand,holocene,2019 CE,37,37,5.0,5.0,5.0,190290.0,294,965
+1303,Whangarei,Pyroclastic cone,New Zealand,New Zealand to Fiji,New Zealand,holocene,Unknown - Evidence Uncertain,35,35,51419.0,51419.0,62244.0,145873.0,397,1302
+1304,Wilis,Stratovolcano,Indonesia,Indonesia,Java,holocene,Unknown - Evidence Credible,7,7,514.0,5376.0,2150615.0,21455776.0,2563,8409
+1305,Witori,Caldera,Papua New Guinea,Melanesia and Australia,New Britain,holocene,2012 CE,5,5,24509.0,24509.0,37824.0,145382.0,724,2375
+1306,Wolf,Shield,Ecuador,South America,Galapagos Islands,holocene,2022 CE,0,0,165.0,165.0,237.0,1673.0,1710,5610
+1309,Wudalianchi,Volcanic field,China,Kamchatka and Mainland Asia,China (eastern),holocene,1776 CE,48,48,57885.0,57885.0,136201.0,2164526.0,597,1959
+1310,Wurlali,Stratovolcano,Indonesia,Indonesia,Banda Sea,holocene,1892 CE,7,7,219.0,365.0,720.0,901.0,868,2848
+1311,Yakedake,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,1995 CE,36,36,995.0,2995.0,156542.0,4595286.0,2455,8054
+1312,Yali,Lava dome,Greece,Mediterranean and Western Asia,Greece,holocene,Unknown - Evidence Credible,36,36,5.0,499.0,36517.0,430920.0,180,591
+1313,Yangudi,Complex,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,10,10,33.0,795.0,11672.0,519635.0,1383,4537
+1316,"Yar, Jabal",Volcanic field,Saudi Arabia,Middle East and Indian Ocean,Middle East (southern),holocene,1810 CE,17,17,292582.0,292582.0,574162.0,2204954.0,305,1001
+1317,Yasur,Stratovolcano,Vanuatu,Melanesia and Australia,Vanuatu,holocene,2022 CE,19,19,3636.0,6068.0,24748.0,32427.0,361,1184
+1318,Yate,Stratovolcano,Chile,South America,Southern Chile and Argentina,holocene,1090 CE,41,41,43.0,296.0,6135.0,315418.0,2187,7175
+1319,Yavinsky,Stratovolcano,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,holocene,4050 BCE,51,51,30.0,595.0,1356.0,4813.0,646,2119
+1320,"Yojoa, Lago",Volcanic field,Honduras,México and Central America,El Salvador and Honduras,holocene,7638 BCE,14,14,123374.0,123374.0,279991.0,3336190.0,1060,3478
+1321,Yokoatejima,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Ryukyu Islands and Kyushu,holocene,1835 CE,28,28,62.0,64.0,72.0,72351.0,495,1624
+1322,Yokodake,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,1200 CE,36,36,1920.0,11751.0,484929.0,6385773.0,2480,8136
+1323,Yonemaru-Sumiyoshiike,Maar,Japan,"Japan, Taiwan, Marianas",Ryukyu Islands and Kyushu,holocene,6200 BCE,31,31,18080.0,73354.0,923168.0,2959509.0,40,131
+1324,Yoteizan,Stratovolcano,Japan,"Japan, Taiwan, Marianas",Hokkaido,holocene,1050 BCE,42,42,205.0,19419.0,80006.0,2988960.0,1888,6194
+1326,Yucamane,Stratovolcano,Peru,South America,Peru,holocene,1320 BCE,17,17,51.0,692.0,10396.0,467713.0,5495,18028
+1327,Yufu-Tsurumi,Lava dome,Japan,"Japan, Taiwan, Marianas",Ryukyu Islands and Kyushu,holocene,867 CE,33,33,28543.0,139722.0,709942.0,7767905.0,1584,5197
+1329,"Zacate Grande, Isla",Stratovolcano,Honduras,México and Central America,El Salvador and Honduras,holocene,Unknown - Evidence Credible,13,13,7059.0,11942.0,195736.0,3647832.0,640,2100
+1330,Zaozan [Zaosan],Complex,Japan,"Japan, Taiwan, Marianas",Honshu,holocene,1940 CE,38,38,632.0,4681.0,550409.0,4956958.0,1841,6040
+1331,Zapatera,Shield,Nicaragua,México and Central America,Nicaragua,holocene,Unknown - Evidence Credible,11,11,136.0,2104.0,214864.0,2537550.0,629,2064
+1333,Zavaritzki Caldera,Caldera,Russia,Kuril Islands,Kuril Islands,holocene,1957 CE,46,46,46.0,46.0,61.0,118.0,624,2047
+1339,Zitacuaro-Valle de Bravo,Caldera,Mexico,México and Central America,Mexico,holocene,3050 BCE,19,19,231977.0,231977.0,490440.0,4838069.0,3500,11483
+1340,Zubair Group,Shield,Yemen,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,2013 CE,15,15,7.0,7.0,7.0,671171.0,191,627
+1341,Zukur,Shield,Yemen,Africa and Red Sea,Africa (northeastern) and Red Sea,holocene,Unknown - Evidence Credible,14,14,508.0,922.0,1075.0,1472800.0,624,2047
+1342,Zuni-Bandera,Volcanic field,United States,Canada and Western USA,USA (New Mexico),holocene,1170 BCE,34,34,18.0,18.0,246.0,54738.0,2550,8366
+1374,Amiata,Lava dome,Italy,Volcanic Region,Italy,pleistocene,Pleistocene,42,42,24489.0,139023.0,1685378.0,10172750.0,1738,5702
+1378,"Ananopa, Cerro",Volcanic field,Guatemala,Volcanic Region,Guatemala,pleistocene,Pleistocene,14,14,2.0,4.0,56.0,5933.0,386,1266
+1416,"Azufres, Los",Caldera,Mexico,Volcanic Region,Mexico,pleistocene,Pleistocene,19,19,4310.0,4310.0,10056.0,211349.0,3400,11155
+1425,Balagan-Tas,Pyroclastic cone,Russia,Volcanic Region,Russia (northeastern),pleistocene,Pleistocene,65,65,183.0,4389.0,258680.0,3465600.0,993,3258
+1426,Balatukan,Compound,Philippines,Volcanic Region,Mindanao,pleistocene,Pleistocene,8,8,2.0,50.0,1438.0,104763.0,2450,8038
+1436,Barus,Stratovolcano,Indonesia,Volcanic Region,Sumatra,pleistocene,Pleistocene,3,3,991688.0,991688.0,991688.0,12300349.0,1969,6460
+1446,Berguent Volcanic Field,Lava dome,Morocco,Volcanic Region,Africa (northern),pleistocene,Pleistocene,33,33,214.0,2467.0,42623.0,1263142.0,1200,3937
+1453,Bishamondake,Stratovolcano,Japan,Volcanic Region,Honshu,pleistocene,Pleistocene,35,35,61520.0,61520.0,174501.0,2171586.0,1386,4547
+1477,Bongabti,Shield,Russia,Volcanic Region,Kamchatka Peninsula,pleistocene,Pleistocene,55,55,920.0,30581.0,103744.0,321195.0,1790,5873
+1531,Cheb Basin,Volcanic field,Czech Republic,Volcanic Region,Western Europe,pleistocene,Pleistocene,49,49,14959.0,62234.0,676872.0,8954351.0,585,1919
+1552,Clayton Valley,Pyroclastic cone,United States,Volcanic Region,USA (Nevada),pleistocene,Pleistocene,37,37,30.0,39.0,753.0,41053.0,1490,4888
+1559,"Columbretes, Islas",Volcanic field,Spain,Volcanic Region,Western Europe,pleistocene,Pleistocene,39,39,2738.0,50749.0,231112.0,2528256.0,33,108
+1560,Conchagua,Stratovolcano,El Salvador,Volcanic Region,El Salvador and Honduras,pleistocene,Pleistocene,13,13,1076.0,5575.0,172113.0,2625176.0,1225,4019
+1567,Corregidor,Caldera,Philippines,Volcanic Region,Luzon,pleistocene,Pleistocene,14,14,516.0,516.0,1517.0,5340.0,173,568
+1568,Corvo,Stratovolcano,Portugal,Volcanic Region,Azores,pleistocene,Pleistocene,39,39,370.0,370.0,577.0,71942.0,718,2356
+1573,Crater Flat,Volcanic field,United States,Volcanic Region,USA (Nevada),pleistocene,Pleistocene,36,36,351.0,1907.0,13731.0,875371.0,1128,3701
+1575,Crown Island,Stratovolcano,Papua New Guinea,Volcanic Region,Northeast of New Guinea,pleistocene,Pleistocene,5,5,40.0,132.0,2524.0,415432.0,298,978
+1584,Cuxliquel,Lava dome,Guatemala,Volcanic Region,Guatemala,pleistocene,Pleistocene,14,14,24690.0,24690.0,69813.0,2253282.0,3029,9938
+1609,Didolli,Caldera,Ethiopia,Volcanic Region,Africa (northeastern) and Red Sea,pleistocene,Pleistocene,12,12,2815.0,2815.0,7605.0,119999.0,1191,3907
+1613,Dittmar,Stratovolcano,United States,Volcanic Region,USA (California),pleistocene,Pleistocene,40,40,1279.0,4257.0,103789.0,813154.0,2328,7638
+1614,Doma Peaks,Stratovolcano,Papua New Guinea,Volcanic Region,New Guinea and D'Entrecasteaux Islands,pleistocene,Pleistocene,5,5,1.0,34.0,1425.0,30006.0,3568,11706
+1626,Dzau,Fissure vent,Georgia,Volcanic Region,Western Asia,pleistocene,Pleistocene,42,42,484.0,484.0,12235.0,72547.0,1904,6247
+1664,Foundland,Stratovolcano,Dominica,Volcanic Region,West Indies,pleistocene,Pleistocene,15,15,570.0,570.0,725.0,106237.0,960,3150
+1676,Gaeta Bay Volcanic Field,Submarine,Italy,Volcanic Region,Italy,pleistocene,Pleistocene,40,40,41.0,45.0,87.0,4473.0,Unknown,
+1703,Giluwe,Shield,Papua New Guinea,Volcanic Region,New Guinea and D'Entrecasteaux Islands,pleistocene,Pleistocene,6,6,1449.0,8524.0,168136.0,1614661.0,4368,14331
+1706,Golaya,Stratovolcano,Russia,Volcanic Region,Kamchatka Peninsula,pleistocene,Pleistocene,52,52,3.0,3.0,273.0,461496.0,858,2815
+1731,Haungaroa,Submarine,New Zealand,Volcanic Region,New Zealand,pleistocene,Pleistocene,32,32,136278.0,136278.0,344723.0,2975160.0,-660,-2165
+1744,Hlodufell,Tuya,Iceland,Volcanic Region,Iceland (southwestern),pleistocene,Pleistocene,64,64,466462.0,466462.0,1010821.0,8935632.0,1188,3898
+1778,Imbing,Stratovolcano,Philippines,Volcanic Region,Mindanao,pleistocene,Pleistocene,7,7,3878.0,47725.0,274542.0,2733310.0,700,2297
+1795,"Izopo, Montaña de",Shield,Honduras,Volcanic Region,El Salvador and Honduras,pleistocene,Pleistocene,13,13,88294.0,308228.0,597576.0,2142694.0,2020,6627
+1801,Jianshan,Shield,China,Volcanic Region,China (eastern),pleistocene,Pleistocene,48,48,46994.0,295392.0,517965.0,740953.0,399,1309
+1825,Kannabe,Shield,Japan,Volcanic Region,Honshu,pleistocene,Pleistocene,35,35,11332.0,36288.0,255708.0,1414780.0,460,1509
+1847,Kekurny,Shield,Russia,Volcanic Region,Kamchatka Peninsula,pleistocene,Pleistocene,56,56,470.0,470.0,12823.0,2206006.0,1377,4518
+1882,Kobinai,Stratovolcano,Japan,Volcanic Region,Honshu,pleistocene,Pleistocene,39,39,2.0,49.0,366.0,6423.0,1004,3294
+1905,Kulal,Shield,Kenya,Volcanic Region,Africa (eastern),pleistocene,Pleistocene,2,2,2.0,30.0,278.0,3407.0,2285,7497
+1910,Kuntomintar,Stratovolcano,Russia,Volcanic Region,Kuril Islands,pleistocene,Pleistocene,48,48,270.0,4861.0,73682.0,1017203.0,828,2717
+1931,Latour Butte,Lava cone,United States,Volcanic Region,USA (California),pleistocene,Pleistocene,40,40,639.0,3343.0,300696.0,6386916.0,2054,6739
+1934,Lava Butte,Shield,United States,Volcanic Region,USA (Oregon),pleistocene,Pleistocene,43,43,70.0,70.0,722.0,163387.0,1447,4747
+1936,Lava Mountains Volcanic Field,Lava dome,United States,Volcanic Region,USA (California),pleistocene,Pleistocene,35,35,2801.0,2801.0,5729.0,1194378.0,1510,4954
+1937,Lavic Lake,Volcanic field,United States,Volcanic Region,USA (California),pleistocene,Pleistocene,34,34,3230167.0,3230167.0,3230167.0,7659339.0,1495,4905
+1968,Lotomgan Group,Pyroclastic cone,Papua New Guinea,Volcanic Region,New Britain,pleistocene,Pleistocene,5,5,564958.0,564958.0,709881.0,4549176.0,555,1821
+1973,Lunar Crater,Pyroclastic cone,United States,Volcanic Region,USA (Nevada),pleistocene,Pleistocene,38,38,39295.0,194312.0,665160.0,12748840.0,2255,7398
+1978,Madarao,Stratovolcano,Japan,Volcanic Region,Honshu,pleistocene,Pleistocene,36,36,2737.0,4331.0,40811.0,1223589.0,1382,4534
+1988,Makanru Island,Stratovolcano,Russia,Volcanic Region,Kuril Islands,pleistocene,Pleistocene,49,49,10822.0,176032.0,5685941.0,23133031.0,1136,3727
+1989,Malabar,Stratovolcano,Indonesia,Volcanic Region,Java,pleistocene,Pleistocene,7,7,2397210.0,2397210.0,3218499.0,22950711.0,2307,7569
+2000,Mandalawangi,Stratovolcano,Indonesia,Volcanic Region,Java,pleistocene,Pleistocene,7,7,1054.0,21434.0,343169.0,3441094.0,1631,5351
+2006,Maripipi,Unknown,Philippines,Volcanic Region,Central Philippines,pleistocene,Pleistocene,11,11,117.0,532.0,27958.0,475588.0,924,3031
+2010,Masahuat Volcanic Field,Stratovolcano,El Salvador,Volcanic Region,El Salvador and Honduras,pleistocene,Pleistocene,14,14,9.0,19.0,492.0,4403.0,1005,3297
+2075,"Negro, Cerro",Shield,Costa Rica,Volcanic Region,Costa Rica,pleistocene,Pleistocene,10,10,112.0,112.0,406.0,8463.0,136,446
+2081,"Nevado, Cerro",Volcanic field,Argentina,Volcanic Region,Central Chile and Argentina,pleistocene,Pleistocene,35,35,58168.0,58168.0,78676.0,421077.0,3791,12438
+2124,Oliver-Speight,Submarine,New Zealand,Volcanic Region,New Zealand,pleistocene,Pleistocene,32,32,21.0,182.0,1246.0,17574.0,-1840,-6037
+2137,Ostanets,Shield,Russia,Volcanic Region,Kamchatka Peninsula,pleistocene,Pleistocene,52,52,14.0,14.0,34.0,8527.0,719,2359
+2143,Ovalny,Shield,Russia,Volcanic Region,Kamchatka Peninsula,pleistocene,Pleistocene,56,56,5.0,29.0,659.0,7138.0,732,2402
+2148,Pacdahauan,Unknown,Philippines,Volcanic Region,Central Philippines,pleistocene,Pleistocene,11,11,7793.0,79870.0,311625.0,1869793.0,628,2060
+2154,Paniri,Stratovolcano,Chile,Volcanic Region,"Northern Chile, Bolivia and Argentina",pleistocene,Pleistocene,22,22,91.0,474.0,9443.0,269944.0,5946,19508
+2168,Pesawaran-Ratai,Stratovolcano,Indonesia,Volcanic Region,Sumatra,pleistocene,Pleistocene,5,5,673.0,2765.0,87794.0,1850111.0,1575,5167
+2188,Plosky,Shield,Russia,Volcanic Region,Kamchatka Peninsula,pleistocene,Pleistocene,57,57,653.0,47055.0,270617.0,862807.0,1255,4117
+2215,Putoto,Submarine,Undersea Features,Volcanic Region,Kermadec Islands,pleistocene,Pleistocene,27,27,20275.0,181399.0,2409092.0,25745923.0,-260,-853
+2218,Puyo,Pyroclastic cone,Ecuador,Volcanic Region,Ecuador,pleistocene,Pleistocene,1,1,5159.0,5159.0,33367.0,511150.0,1072,3517
+2246,Rendova,Stratovolcano,Solomon Islands,Volcanic Region,Bougainville and Solomon Islands,pleistocene,Pleistocene,8,8,2920.0,2920.0,11513.0,363602.0,1050,3445
+2260,Rotorua,Caldera,New Zealand,Volcanic Region,New Zealand,pleistocene,Pleistocene,38,38,1377.0,1724.0,2859.0,5368.0,757,2484
+2268,Ryohaku Maruyama,Stratovolcano,Japan,Volcanic Region,Honshu,pleistocene,Pleistocene,36,36,43112.0,43112.0,99770.0,1978131.0,1786,5860
+2294,San Pedro-San Pablo,Stratovolcano,Chile,Volcanic Region,"Northern Chile, Bolivia and Argentina",pleistocene,Pleistocene,21,21,20736.0,20736.0,33847.0,72402.0,6142,20151
+2301,Sanggabuana,Stratovolcano,Indonesia,Volcanic Region,Java,pleistocene,Pleistocene,6,6,86059.0,86059.0,106846.0,196479.0,1291,4236
+2308,Santo Domingo Volcanic Field,Maar,Mexico,Volcanic Region,Mexico,pleistocene,Pleistocene,22,22,2272.0,227058.0,1122253.0,7115052.0,1550,5085
+2311,Sao Nicolau,Stratovolcano,Cape Verde,Volcanic Region,Cape Verde Islands,pleistocene,Pleistocene,16,16,1251.0,12665.0,190926.0,190926.0,1270,4167
+2312,Sao Tome,Shield,Sao Tome and Principe,Volcanic Region,Africa (western),pleistocene,Pleistocene,0,0,51018.0,63609.0,81522.0,123573.0,2024,6640
+2314,Sapporo,Shield,Japan,Volcanic Region,Hokkaido,pleistocene,Pleistocene,42,42,15.0,15.0,15.0,2113.0,1294,4245
+2344,Shiitokoro,Lava dome,Japan,Volcanic Region,Hokkaido,pleistocene,Pleistocene,43,43,21.0,166.0,29809.0,1179682.0,1336,4383
+2348,Shiretoko,Stratovolcano,Japan,Volcanic Region,Hokkaido,pleistocene,Pleistocene,44,44,1907.0,6140.0,57356.0,3018745.0,1254,4114
+2367,Sincholagua,Stratovolcano,Ecuador,Volcanic Region,Ecuador,pleistocene,Pleistocene,0,0,90526.0,90526.0,223438.0,4290753.0,4893,16053
+2409,Sunequera,Shield,Bolivia,Volcanic Region,"Northern Chile, Bolivia and Argentina",pleistocene,Pleistocene,21,21,158.0,8090.0,120340.0,1759980.0,5899,19354
+2441,Tauranga Volcanic Centre,Volcanic field,New Zealand,Volcanic Region,New Zealand,pleistocene,Pleistocene,37,37,800.0,4272.0,323619.0,680856.0,200,656
+2485,Toney Mountain,Shield,Antarctica,Volcanic Region,Antarctica and South Sandwich Islands,pleistocene,Pleistocene,75,75,23.0,442.0,13083.0,135356.0,3595,11795
+2487,Torikabuto,Stratovolcano,Japan,Volcanic Region,Honshu,pleistocene,Pleistocene,36,36,205.0,940.0,12621.0,2616514.0,2038,6686
+2490,Tortuguero,Pyroclastic cone,Costa Rica,Volcanic Region,Costa Rica,pleistocene,Pleistocene,10,10,175047.0,175047.0,332834.0,3920102.0,119,390
+2501,Tsaolingshan,Shield,Taiwan,Volcanic Region,Taiwan,pleistocene,Pleistocene,24,24,252532.0,252532.0,803365.0,6572125.0,347,1138
+2510,Tumanniy,Shield,Russia,Volcanic Region,Kamchatka Peninsula,pleistocene,Pleistocene,51,51,454.0,454.0,6042.0,301037.0,681,2234
+2518,Tuzovsky,Shield,Russia,Volcanic Region,Kamchatka Peninsula,pleistocene,Pleistocene,57,57,4170.0,4170.0,6719.0,264757.0,1516,4974
+2541,Unnamed,Cone,Vietnam,Volcanic Region,Southeast Asia,pleistocene,Pleistocene,19,19,26.0,26.0,93.0,7111.0,Unknown,
+2586,Usami,Stratovolcano,Japan,Volcanic Region,Honshu,pleistocene,Pleistocene,34,34,3344.0,8771.0,93852.0,1720737.0,592,1942
+2590,Usun Apau Plateau,Unknown,Malaysia,Volcanic Region,Borneo,pleistocene,Pleistocene,2,2,2260.0,2260.0,2260.0,650270.0,Unknown,
+2593,Uturuncu,Stratovolcano,Bolivia,Volcanic Region,"Northern Chile, Bolivia and Argentina",pleistocene,Pleistocene,22,22,67523.0,67523.0,149598.0,2014529.0,6008,19711
+2623,Washington,Shield,United States,Volcanic Region,USA (Oregon),pleistocene,Pleistocene,44,44,48.0,48.0,48.0,433.0,2376,7795
+2624,Waw an Namous,Caldera,Libya,Volcanic Region,Africa (northern),pleistocene,Pleistocene,24,24,60290.0,175081.0,2494318.0,20876714.0,470,1542
+2642,"Yayantique, Cerro",Stratovolcano,El Salvador,Volcanic Region,El Salvador and Honduras,pleistocene,Pleistocene,13,13,136.0,1241.0,36600.0,744096.0,613,2011
+2643,"Yeguada, La",Stratovolcano,Panama,Volcanic Region,Panama,pleistocene,Pleistocene,8,8,94.0,1571.0,15775.0,580885.0,1297,4255
